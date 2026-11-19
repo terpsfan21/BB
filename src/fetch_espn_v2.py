@@ -63,6 +63,7 @@ def day_events(d, completed_only=True):
             p = t["homeAway"]
             row[p] = t["team"].get("location") or t["team"].get("displayName")
             row[p + "_id"] = t["team"]["id"]
+            row[p + "_name"] = t["team"].get("displayName")
             row[p + "_score"] = t.get("score")
             row[p + "_halves"] = [l.get("value") for l in t.get("linescores", [])]
         out.append(row)

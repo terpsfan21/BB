@@ -1,0 +1,75 @@
+name: forward-log
+
+# Unattended forward test of the frozen v1 model.
+#   hourly  : snapshot sportsbook totals, log new/changed lines and best-line opportunities
+#   4x/day  : refresh Torvik inputs and log pre-tip signals
+#   1x/day  : rebuild the scorecard (reports/forward_test.md)
+# Scheduled runs can start several minutes late; every log row carries its own UTC timestamp.
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "odds | predict | all | eval"
+        default: "all"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: forward-log
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Decide what to run
+        id: plan
+        run: |
+          H=$(date -u +%H)
+          MODE="${{ github.event.inputs.mode }}"
+          if [ -z "$MODE" ]; then
+            case "$H" in
+              05|11|16|21) MODE=all ;;
+              *) MODE=odds ;;
+            esac
+            [ "$H" = "11" ] && echo "eval=1" >> "$GITHUB_OUTPUT"
+          fi
+          [ "$MODE" = "eval" ] && echo "eval=1" >> "$GITHUB_OUTPUT"
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
+      - name: Install
+        run: |
+          if [ "${{ steps.plan.outputs.eval }}" = "1" ]; then pip install -q -r requirements.txt; else pip install -q pandas numpy; fi
+      - name: Cache Torvik downloads
+        uses: actions/cache@v4
+        with:
+          path: data/raw/torvik
+          key: torvik-${{ github.run_id }}
+          restore-keys: torvik-
+      - name: Log
+        if: steps.plan.outputs.mode != 'eval'
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          ODDS_API_REGIONS: ${{ vars.ODDS_API_REGIONS }}
+        run: python src/forward_log.py "${{ steps.plan.outputs.mode }}"
+      - name: Scorecard
+        if: steps.plan.outputs.eval == '1'
+        run: python src/forward_eval.py
+      - name: Commit logs
+        run: |
+          git config user.name "forward-log"
+          git config user.email "forward-log@users.noreply.github.com"
+          git add data/forward reports/forward_test.md
+          git diff --cached --quiet && exit 0
+          git commit -q -m "forward log $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull -q --rebase
+          git push -q
