@@ -85,8 +85,8 @@ the same games.
 
 - In a regression of the actual total on Torvik and the close together, Torvik's weight is −0.04
   (t = −1.7); corrected Torvik's is +0.04 (t = 1.7). The close takes all the weight.
-- Betting the raw Torvik-vs-close gap wins 49.3–49.7% at every threshold from 1 to 6 points, and
-  beat break-even in 0 of 8 seasons. Bigger disagreements with the market are not better bets.
+- Betting the raw Torvik-vs-close gap wins 48.8–49.7% at every threshold from 1 to 6 points, and
+  beat break-even in at most 1 of 8 seasons. Bigger disagreements with the market are not better bets.
 - Betting the corrected gap wins about 50.5%.
 
 **The factors do predict a little of the closing line's own error.** Fitting the factors directly
@@ -113,11 +113,12 @@ Betting that model's signal against the close at −110 (break-even 52.38%):
   between overs (52.7%) and unders (52.7%).
 - It is only clearly above the vig in one threshold band, and I did not fix that threshold in
   advance.
-- The factors that hold up in both halves of the sample (2016–20 and 2021–26) are all on the
-  defensive side: teams whose defences foul a lot, send opponents to the line, block shots, force
-  steals, or have allowed a high three-point percentage go **under** the close; games where the
-  slower team is still fairly fast go **over**. Each is worth 0.25–0.5 points per standard
-  deviation.
+- Eight of 33 factors hold up in both halves of the sample (2016–20 and 2021–26). Five are
+  defensive: teams whose defences foul a lot, send opponents to the line, block shots, force
+  steals, or have allowed a high three-point percentage go **under** the close. Two are
+  offensive: high free-throw rate and high offensive-rebound rate also go under. The eighth is
+  pace: games where the slower team is still fairly fast go **over**. Each is worth 0.25–0.5
+  points per standard deviation.
 - Against the opening line (2023-24 on, the only seasons with one), the same signal does better:
   53.1% at 1.0 and 55.0% at 1.5, above break-even in 3 of 3 seasons. The line also moves toward
   the signal between open and close (correlation 0.14). That is what a real effect would look
@@ -144,5 +145,5 @@ Betting that model's signal against the close at −110 (break-even 52.38%):
 Freeze the factors-only market model exactly as it is in `src/analyze.py` (fit through 2025-26,
 1.5-point threshold, centred) and score it on the 2026-27 season now in progress, against lines
 captured with timestamps at open and close. If it holds near 53–54% there, a model is justified,
-and it should be a model of the *market's* error built on defensive style — not a Torvik
+and it should be a model of the *market's* error built mainly on defensive style — not a Torvik
 correction.
