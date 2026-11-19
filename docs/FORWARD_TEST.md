@@ -7,7 +7,7 @@ wrong and by roughly how much. It is not a projected total and is never reported
 
 | Step | Where it runs | When (UTC) | What it does |
 |---|---|---|---|
-| Signals | Claude cloud scheduled task | 10:23 and 21:23 daily | Pulls Torvik, scores every D1 game from 2 days back to 4 days ahead with `frozen/v1`, appends to `predictions.csv`, rebuilds `reports/forward_test.md`, commits |
+| Signals | Claude scheduled task, inside the original research session | 10:23 and 21:23 daily | Pulls Torvik, scores every D1 game from 2 days back to 4 days ahead with `frozen/v1`, appends to `predictions.csv`, rebuilds `reports/forward_test.md`, commits |
 | Odds | GitHub Actions (`.github/workflows/forward-log.yml`) | Every hour at :17 | Reads sportsbook totals for upcoming games, appends new or changed numbers to `lines.csv`, a heartbeat to `polls.csv`, best-line rows to `opportunities.csv`, commits |
 
 Why two places: barttorvik.com refuses requests from GitHub's servers (HTTP 403), so the Torvik step
@@ -43,7 +43,8 @@ or accept that the free quota runs out around day 21. **This path has not been t
 - GitHub's scheduler can start runs late and occasionally skips one under load. `polls.csv` shows exactly when each poll happened.
 - GitHub disables scheduled workflows after 60 days without repository activity; the log commits themselves count as activity.
 - If the repository is private, GitHub's free plan includes 2,000 Actions minutes a month; this job uses roughly 750.
-- The signal job uses Claude usage twice a day. It can be paused or deleted from the scheduled-tasks list in the Claude app.
+- The signal job uses Claude usage twice a day, and because it resumes the long research session each run is more expensive than a standalone job would be. It can be paused or deleted from the scheduled-tasks list in the Claude app.
+- A standalone (fresh-session) version was tried and failed at start-up: the cloud environment's setup script runs `pip install --upgrade pip`, which errors, and that is fatal for new sessions. Once that line is removed from the environment's Setup script, the job can be moved to a cheaper standalone task.
 - A game whose opener posts and moves between two hourly polls is recorded at the later number.
 - No source here gives limits, and none covers Circa or BookMaker.
 
