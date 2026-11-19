@@ -21,6 +21,13 @@ Odds sources
   espn       ESPN's public event odds feed (unofficial; currently DraftKings only).  Always on.
   oddsapi    The Odds API v4 (supported, keyed).  Used only if env ODDS_API_KEY is set.
              Regions via env ODDS_API_REGIONS (default "us").  1 credit per region per poll.
+  kalshi     Kalshi's public market-data API (documented, no key).  Always on.  Each game is a
+             ladder of "over X" contracts; the full ladder with bid/ask sizes goes to
+             kalshi_ladder.csv (rows only when a quote changes) and the strike priced closest to
+             50/50 goes into lines.csv as provider "Kalshi".  Prices exclude Kalshi's trading fee.
+
+Not crawled, on purpose: 4codds.com and betwatch.io.  Both restrict automated collection (see
+docs/DATA_SOURCES.md); they need the owner's permission first.
 """
 import datetime as dt
 import difflib
@@ -278,6 +285,81 @@ def oddsapi_lines(ev, now):
     return rows, remaining
 
 
+KALSHI = "https://api.elections.kalshi.com/trade-api/v2/markets?series_ticker=KXNCAAMBTOTAL&status=open&limit=1000"
+KALSHI_COLS = ["obs_ts_utc", "espn_id", "event_ticker", "ticker", "strike", "yes_bid", "yes_ask", "no_bid", "no_ask",
+               "yes_bid_size", "yes_ask_size", "volume", "open_interest", "market_created_utc", "market_updated_utc"]
+
+
+def american(p):
+    """American odds for buying a $1-payout contract at price p (fees excluded)."""
+    if not (0 < p < 1):
+        return None
+    return round(-100 * p / (1 - p)) if p >= 0.5 else round(100 * (1 - p) / p)
+
+
+def kalshi_lines(ev, now):
+    """Returns (summary rows for lines.csv, ladder rows for kalshi_ladder.csv, n_events)."""
+    markets, cursor = [], ""
+    for _ in range(10):
+        req = urllib.request.Request(KALSHI + (f"&cursor={cursor}" if cursor else ""), headers={"Accept": "application/json"})
+        d = json.loads(urllib.request.urlopen(req, timeout=60).read())
+        markets += d.get("markets", [])
+        cursor = d.get("cursor") or ""
+        if not cursor:
+            break
+    run_ts = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+    cand = ev.assign(hn=ev.home.map(norm), an=ev.away.map(norm)) if len(ev) else ev
+
+    def f(v):
+        try:
+            return float(v)
+        except (TypeError, ValueError):
+            return np.nan
+
+    by_event = {}
+    for m in markets:
+        by_event.setdefault(m["event_ticker"], []).append(m)
+    lines, ladder = [], []
+    for et, ms in by_event.items():
+        tip = pd.Timestamp(ms[0].get("occurrence_datetime") or ms[0].get("expected_expiration_time"))
+        if tip <= pd.Timestamp(now):
+            continue                                        # pre-game quotes only
+        mt = re.search(r"in the (.+?) vs\.? (.+?) men's college basketball game", ms[0].get("rules_primary") or "")
+        eid = "kalshi:" + et
+        if mt and len(cand):
+            a, b = norm(mt.group(1)), norm(mt.group(2))
+            c = cand[(cand.tip_utc - tip).abs() <= pd.Timedelta(hours=4)]
+            best, score = None, 0.0
+            for _, e in c.iterrows():
+                sm = difflib.SequenceMatcher
+                sc = max(min(sm(None, a, e.an).ratio(), sm(None, b, e.hn).ratio()),
+                         min(sm(None, a, e.hn).ratio(), sm(None, b, e.an).ratio()))
+                if sc > score:
+                    best, score = e.id, sc
+            if best is not None and score >= 0.85:
+                eid = best
+        main = None
+        for m in ms:
+            yb, ya, nb, na = f(m.get("yes_bid_dollars")), f(m.get("yes_ask_dollars")), f(m.get("no_bid_dollars")), f(m.get("no_ask_dollars"))
+            ladder.append({"obs_ts_utc": run_ts, "espn_id": eid, "event_ticker": et, "ticker": m["ticker"], "strike": m.get("floor_strike"),
+                           "yes_bid": yb, "yes_ask": ya, "no_bid": nb, "no_ask": na,
+                           "yes_bid_size": f(m.get("yes_bid_size_fp")), "yes_ask_size": f(m.get("yes_ask_size_fp")),
+                           "volume": f(m.get("volume_fp")), "open_interest": f(m.get("open_interest_fp")),
+                           "market_created_utc": m.get("created_time", ""), "market_updated_utc": m.get("updated_time", "")})
+            two_sided = yb > 0 and nb > 0 and 0 < ya < 1 and 0 < na < 1 and (ya - yb) <= 0.10
+            if two_sided:
+                mid = (yb + ya) / 2
+                if main is None or abs(mid - 0.5) < main[0]:
+                    main = (abs(mid - 0.5), m, ya, na)
+        if main is not None and main[0] <= 0.10:            # a strike priced within 40-60%
+            _, m, ya, na = main
+            lines.append({"obs_ts_utc": run_ts, "source": "kalshi", "espn_id": eid, "observed": "pre_tip", "provider": "Kalshi",
+                          "total": m.get("floor_strike"), "over_odds": american(ya), "under_odds": american(na),
+                          "open_total": "", "open_over": "", "open_under": "", "close_total": "", "close_over": "", "close_under": "",
+                          "book_last_update": m.get("updated_time", "")})
+    return lines, ladder, len(by_event)
+
+
 def payout(a):
     a = float(a)
     return a / 100.0 if a > 0 else 100.0 / abs(a)
@@ -306,6 +388,25 @@ def odds():
         rows += r2
     except Exception as e:                                  # a failed keyed source must not stop the free one
         polls.append({"obs_ts_utc": run_ts, "source": "oddsapi", "events_checked": 0, "pre_tip_lines": 0, "note": f"error: {str(e)[:80]}"})
+    try:
+        r3, lad, nev = kalshi_lines(ev, now)
+        rows += r3
+        lad = pd.DataFrame(lad, columns=KALSHI_COLS)
+        oldk = read_log("kalshi_ladder.csv", KALSHI_COLS)
+        if len(lad):
+            q = ["yes_bid", "yes_ask", "no_bid", "no_ask"]
+            lastq = {}
+            if len(oldk):
+                ol = oldk.sort_values("obs_ts_utc").drop_duplicates("ticker", keep="last")
+                lastq = {r.ticker: tuple(round(float(getattr(r, c)), 4) if str(getattr(r, c)) not in ("", "nan") else None for c in q) for r in ol.itertuples()}
+            cur_q = [tuple(None if pd.isna(getattr(r, c)) else round(float(getattr(r, c)), 4) for c in q) for r in lad.itertuples()]
+            keepk = [lastq.get(t) != cq for t, cq in zip(lad.ticker, cur_q)]
+            append("kalshi_ladder.csv", lad[keepk].copy(), KALSHI_COLS)
+        matched = sum(not str(r["espn_id"]).startswith("kalshi:") for r in r3)
+        polls.append({"obs_ts_utc": run_ts, "source": "kalshi", "events_checked": nev, "pre_tip_lines": len(r3),
+                      "note": f"matched_to_games={matched}"})
+    except Exception as e:
+        polls.append({"obs_ts_utc": run_ts, "source": "kalshi", "events_checked": 0, "pre_tip_lines": 0, "note": f"error: {str(e)[:80]}"})
     append("polls.csv", pd.DataFrame(polls), ["obs_ts_utc", "source", "events_checked", "pre_tip_lines", "note"])
 
     cur = pd.DataFrame(rows, columns=LINE_COLS)

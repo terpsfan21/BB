@@ -19,6 +19,7 @@ cannot run there. The Claude cloud environment can reach Torvik. ESPN is reachab
 |---|---|---|
 | `predictions.csv` | game × run date | `run_ts_utc`, `kind` (prospective = logged before tip-off), `signal`, `direction`, ratings snapshot date, games in the inputs |
 | `lines.csv` | book × game, each time the number or price is first seen or changes | `obs_ts_utc`, `source`, `provider`, `total`, `over_odds`, `under_odds`; post-game rows add the provider's own open and close |
+| `kalshi_ladder.csv` | Kalshi contract, each time its quote changes | strike, yes/no bid and ask, size at the best bid and ask, volume, open interest, market creation time |
 | `polls.csv` | odds poll × source | proves the screen was checked then, so an unchanged line is known to be unchanged as of the last poll |
 | `opportunities.csv` | flagged game, when a number is first available and whenever the best one changes | `signal`, `direction`, `best_book`, `best_total`, `best_price`, `books_seen`, `median_total` |
 
@@ -30,6 +31,7 @@ Timestamps are when *we* observed the number, not when the book posted it. With 
 | Source | Status | Books | Cost |
 |---|---|---|---|
 | ESPN event odds | **On** | DraftKings only; lines appear on game day, not the night before | Free, unofficial |
+| Kalshi public market data | **On** | Kalshi (an exchange). Full ladder of over/under strikes with bid, ask and size at the best quote in `kalshi_ladder.csv`; the strike nearest 50/50 goes into `lines.csv` | Free, documented, no key. Prices exclude Kalshi's trading fee |
 | The Odds API | **Built, off until a key is added** | DraftKings, FanDuel, BetMGM, BetRivers, Bovada, BetOnline, LowVig (`us`); Pinnacle (`eu`) | Free tier: 500 credits/month = about 16 polls/day for one region |
 
 To turn on The Odds API: create a free key at the-odds-api.com, then in the GitHub repository go to
@@ -46,7 +48,8 @@ or accept that the free quota runs out around day 21. **This path has not been t
 - The signal job uses Claude usage twice a day, and because it resumes the long research session each run is more expensive than a standalone job would be. It can be paused or deleted from the scheduled-tasks list in the Claude app.
 - A standalone (fresh-session) version was tried and failed at start-up: the cloud environment's setup script runs `pip install --upgrade pip`, which errors, and that is fatal for new sessions. Once that line is removed from the environment's Setup script, the job can be moved to a cheaper standalone task.
 - A game whose opener posts and moves between two hourly polls is recorded at the later number.
-- No source here gives limits, and none covers Circa or BookMaker.
+- Only Kalshi gives any depth (size at the best bid and ask). No sportsbook source here gives limits, and none covers Circa or BookMaker.
+- 4codds.com and betwatch.io are deliberately not crawled: both restrict automated collection. See `PERMISSION_REQUEST.md`.
 
 ## Manual run
 
