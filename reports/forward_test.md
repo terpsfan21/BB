@@ -1,6 +1,6 @@
 # Frozen v1 forward test, season 2026-27
 
-Generated 2026-11-19 10:07 UTC. Log rows: 898; prospective 127, reconstruction 771.
+Generated 2026-11-19 21:24 UTC. Log rows: 962; prospective 191, reconstruction 771.
 
 ## Prospective predictions
 
