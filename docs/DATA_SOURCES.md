@@ -52,3 +52,18 @@ ESPN odds detail by season:
 | Best time to bet between open and close | No | Yes — or The Odds API history |
 | Value of line shopping | Upper bound only | Yes |
 | Books the user can actually bet | No | User's own access and limits |
+
+## Free odds screens and APIs checked for the forward test (2026-11-19)
+
+| Source | NCAAB totals | Open / timestamps / limits | Supported programmatic access | Verdict |
+|---|---|---|---|---|
+| **4codds.com** | Not verified: the site returned a Cloudflare block to every automated request, and that was not bypassed | Marketed as showing "limits and depth"; books reported include Pinnacle, DraftKings, FanDuel, Kalshi, Novig, Circa | None documented. `robots.txt` says the JSON API "is not for crawlers" | Manual use only unless the owner grants permission |
+| **betwatch.io** | Yes; per-book totals with prices, about 30 sources including Pinnacle, DraftKings, FanDuel | Shows price at open, 24 hours ago and now; no limits | No public API docs. Terms section 13 prohibits collecting odds by scripts, scrapers or browser automation without written approval | Manual use only unless the owner grants permission |
+| **The Odds API (free tier)** | Yes | No opener field; per-market `last_update`; no limits | Keyed API; storage and analysis allowed. 500 credits/month | **Best free automated source.** Collector is built |
+| **Kalshi** | Yes (`KXNCAAMBTOTAL`) | Market creation time; full order-book depth | Public documented API, no key for market data | Useful as an exchange price with real depth; not built yet |
+| **Polymarket** | Yes | Order book not tested | Public API | Possible later |
+| **OddsPapi (free tier)** | Claimed, not verified | Claims per-outcome change time and `limit` fields, and Pinnacle/Circa | Keyed API, about 250 requests/month | Worth one test; unverified |
+| **TheRundown (free tier)** | Unverified on free tier | No openers on free tier | Keyed API | DraftKings/FanDuel/BetMGM only |
+| **SportsGameOdds (free tier)** | Yes | Unverified | Keyed API, 2,500 objects/month | Too small |
+| **Pinnacle direct** | — | — | Public API closed July 2025; access by application | Not available |
+| Sportsbook Review, VegasInsider, Covers | Yes | Some show opens | Terms prohibit automated collection | Not usable |
