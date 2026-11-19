@@ -1,0 +1,899 @@
+model,run_ts_utc,kind,season,muid,game_date,team1_away,team2_home,neutral,espn_id,tip_utc,signal,direction,ratings_snapshot,t1_games_in_inputs,t2_games_in_inputs
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,DavidsonWashington St.11-2,2026-11-02,Davidson,Washington St.,0,401925771,2026-11-03T02:00:00Z,-0.29,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Little RockVCU11-2,2026-11-02,Little Rock,VCU,0,401920201,2026-11-03T00:00:00Z,0.024,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,West GeorgiaDePaul11-2,2026-11-02,West Georgia,DePaul,0,401909500,2026-11-03T01:00:00Z,0.031,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,New HavenSyracuse11-2,2026-11-02,New Haven,Syracuse,0,401909716,2026-11-03T00:00:00Z,-0.698,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LipscombSoutheast Missouri St.11-2,2026-11-02,Lipscomb,Southeast Missouri St.,0,401920701,2026-11-03T00:30:00Z,0.259,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PepperdineCornell11-2,2026-11-02,Pepperdine,Cornell,0,401924717,2026-11-02T23:00:00Z,0.1,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,RadfordSan Francisco11-2,2026-11-02,Radford,San Francisco,0,401921060,2026-11-03T03:00:00Z,0.442,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Texas SouthernGrand Canyon11-2,2026-11-02,Texas Southern,Grand Canyon,0,401911389,2026-11-03T02:00:00Z,-0.083,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BinghamtonNorthwestern11-2,2026-11-02,Binghamton,Northwestern,0,401920732,2026-11-03T01:00:00Z,-0.428,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Tennessee MartinTulane11-2,2026-11-02,Tennessee Martin,Tulane,0,401919001,2026-11-03T01:00:00Z,-0.082,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,St. ThomasPresbyterian11-2,2026-11-02,St. Thomas,Presbyterian,0,401920842,2026-11-03T00:00:00Z,-0.739,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MercyhurstMarquette11-2,2026-11-02,Mercyhurst,Marquette,0,401909522,2026-11-03T00:30:00Z,-0.563,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Abilene ChristianColorado11-2,2026-11-02,Abilene Christian,Colorado,0,401909759,2026-11-03T02:00:00Z,0.142,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Mount St. Mary'sXavier11-2,2026-11-02,Mount St. Mary's,Xavier,0,401909541,2026-11-03T00:00:00Z,0.234,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,RiderPittsburgh11-2,2026-11-02,Rider,Pittsburgh,0,401909705,2026-11-03T00:00:00Z,0.071,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NavyGeorge Washington11-2,2026-11-02,Navy,George Washington,0,401911208,2026-11-03T00:30:00Z,-0.186,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SeattleHawaii11-2,2026-11-02,Seattle,Hawaii,0,401917506,2026-11-03T04:59:00Z,-0.043,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,VermontIona11-2,2026-11-02,Vermont,Iona,0,401920690,2026-11-03T00:00:00Z,-0.528,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Western IllinoisValparaiso11-2,2026-11-02,Western Illinois,Valparaiso,0,401928995,2026-11-03T01:00:00Z,-0.393,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ColgateWashington11-2,2026-11-02,Colgate,Washington,0,401920769,2026-11-03T03:00:00Z,-0.254,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CharlotteIndiana St.11-2,2026-11-02,Charlotte,Indiana St.,0,401925818,2026-11-03T00:00:00Z,0.012,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,StetsonClemson11-2,2026-11-02,Stetson,Clemson,0,401918073,2026-11-03T00:00:00Z,-0.424,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Ball St.Georgia Southern11-2,2026-11-02,Ball St.,Georgia Southern,0,401911004,2026-11-03T00:00:00Z,-0.04,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LIUFlorida Atlantic11-2,2026-11-02,LIU,Florida Atlantic,0,401919803,2026-11-03T00:00:00Z,0.397,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,East Texas A&MOklahoma11-2,2026-11-02,East Texas A&M,Oklahoma,0,401906801,2026-11-03T01:00:00Z,0.076,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Incarnate WordOklahoma St.11-2,2026-11-02,Incarnate Word,Oklahoma St.,0,401919039,2026-11-03T02:00:00Z,0.184,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,East Tennessee St.Arizona St.11-2,2026-11-02,East Tennessee St.,Arizona St.,0,401921731,2026-11-03T03:00:00Z,-0.416,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SienaBryant11-2,2026-11-02,Siena,Bryant,0,401923269,2026-11-03T01:00:00Z,-0.471,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,AmericanCincinnati11-2,2026-11-02,American,Cincinnati,0,401912207,2026-11-03T00:00:00Z,-0.848,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,QuinnipiacMichigan St.11-2,2026-11-02,Quinnipiac,Michigan St.,0,401924856,2026-11-03T00:00:00Z,-0.256,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UTSASan Jose St.11-2,2026-11-02,UTSA,San Jose St.,0,401911469,2026-11-02T20:00:00Z,-0.217,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BellarmineVanderbilt11-2,2026-11-02,Bellarmine,Vanderbilt,0,401921104,2026-11-03T00:00:00Z,-0.456,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Charleston SouthernSouth Florida11-2,2026-11-02,Charleston Southern,South Florida,0,401911374,2026-11-03T00:45:00Z,0.372,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Youngstown St.St. Bonaventure11-2,2026-11-02,Youngstown St.,St. Bonaventure,0,401911261,2026-11-03T00:00:00Z,0.122,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UMKCCreighton11-2,2026-11-02,UMKC,Creighton,0,401909490,2026-11-03T01:00:00Z,-0.613,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Montana St.Colorado St.11-2,2026-11-02,Montana St.,Colorado St.,0,401925878,2026-11-03T03:00:00Z,-1.094,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North AlabamaUC Davis11-2,2026-11-02,North Alabama,UC Davis,0,401911517,2026-11-03T03:00:00Z,-0.293,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,The CitadelLoyola Chicago11-2,2026-11-02,The Citadel,Loyola Chicago,0,401911228,2026-11-03T01:00:00Z,-0.19,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,OhioSouth Alabama11-2,2026-11-02,Ohio,South Alabama,0,401911003,2026-11-03T01:00:00Z,-0.323,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NortheasternBoston University11-2,2026-11-02,Northeastern,Boston University,0,401920746,2026-11-03T00:00:00Z,-0.691,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Weber St.Oregon St.11-2,2026-11-02,Weber St.,Oregon St.,0,401925947,2026-11-03T02:30:00Z,-0.377,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Fairleigh DickinsonIllinois11-2,2026-11-02,Fairleigh Dickinson,Illinois,0,401913525,2026-11-03T01:00:00Z,-0.106,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Texas A&M Corpus ChrisTexas St.11-2,2026-11-02,Texas A&M Corpus Chris,Texas St.,0,401925096,2026-11-03T01:00:00Z,-0.182,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Central ConnecticutTemple11-2,2026-11-02,Central Connecticut,Temple,0,401925857,2026-11-02T23:30:00Z,-0.435,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Eastern WashingtonStanford11-2,2026-11-02,Eastern Washington,Stanford,0,401920716,2026-11-03T03:00:00Z,0.05,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Iowa St.Memphis11-2,2026-11-02,Iowa St.,Memphis,1,401909771,2026-11-03T00:00:00Z,0.279,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LehighSaint Louis11-2,2026-11-02,Lehigh,Saint Louis,0,401911248,2026-11-03T01:00:00Z,-0.64,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Utah TechNew Mexico11-2,2026-11-02,Utah Tech,New Mexico,0,401924894,2026-11-03T02:00:00Z,0.064,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North Carolina CentralGeorgia11-2,2026-11-02,North Carolina Central,Georgia,0,401906779,2026-11-03T00:30:00Z,0.013,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Kent St.Louisiana Tech11-2,2026-11-02,Kent St.,Louisiana Tech,0,401911000,2026-11-03T00:30:00Z,-0.129,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UMBCGeorge Mason11-2,2026-11-02,UMBC,George Mason,0,401920071,2026-11-02T21:00:00Z,-0.191,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,FordhamKansas11-2,2026-11-02,Fordham,Kansas,0,401909784,2026-11-03T01:00:00Z,-0.552,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,DenverWisconsin11-2,2026-11-02,Denver,Wisconsin,0,401920893,2026-11-03T00:30:00Z,-0.061,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Morehead St.Western Kentucky11-2,2026-11-02,Morehead St.,Western Kentucky,0,401920959,2026-11-03T00:30:00Z,-0.292,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Jackson St.Texas Tech11-2,2026-11-02,Jackson St.,Texas Tech,0,401921036,2026-11-03T00:00:00Z,-0.601,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UNC AshevilleRichmond11-2,2026-11-02,UNC Asheville,Richmond,0,401911237,2026-11-03T00:00:00Z,-0.124,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Oral RobertsCentral Arkansas11-2,2026-11-02,Oral Roberts,Central Arkansas,0,401917913,2026-11-03T01:30:00Z,-0.473,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ChattanoogaLouisville11-2,2026-11-02,Chattanooga,Louisville,0,401918947,2026-11-03T02:00:00Z,0.271,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ElonColumbia11-2,2026-11-02,Elon,Columbia,0,401921139,2026-11-03T00:00:00Z,-0.321,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MontanaOregon11-2,2026-11-02,Montana,Oregon,0,401922029,2026-11-03T03:00:00Z,-0.046,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,TowsonSanta Clara11-2,2026-11-02,Towson,Santa Clara,0,401917509,2026-11-03T03:00:00Z,-0.788,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Idaho St.Utah St.11-2,2026-11-02,Idaho St.,Utah St.,0,401922020,2026-11-03T02:30:00Z,-0.481,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Eastern MichiganCoastal Carolina11-2,2026-11-02,Eastern Michigan,Coastal Carolina,0,401910998,2026-11-03T00:00:00Z,-0.605,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Le MoyneNebraska11-2,2026-11-02,Le Moyne,Nebraska,0,401919780,2026-11-03T00:30:00Z,0.185,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Central MichiganLouisiana Monroe11-2,2026-11-02,Central Michigan,Louisiana Monroe,0,401910996,2026-11-03T00:30:00Z,-0.125,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Western MichiganOld Dominion11-2,2026-11-02,Western Michigan,Old Dominion,0,401910997,2026-11-03T00:00:00Z,0.034,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MilwaukeeUSC11-2,2026-11-02,Milwaukee,USC,0,401926771,2026-11-03T03:30:00Z,0.26,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northwestern St.Baylor11-2,2026-11-02,Northwestern St.,Baylor,0,401909750,2026-11-03T02:30:00Z,-0.289,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Miami OHJames Madison11-2,2026-11-02,Miami OH,James Madison,0,401911002,2026-11-03T00:00:00Z,-0.179,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HowardYale11-2,2026-11-02,Howard,Yale,0,401924743,2026-11-03T00:00:00Z,-0.481,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern KentuckyUTEP11-2,2026-11-02,Northern Kentucky,UTEP,1,401911532,2026-11-02T19:30:00Z,0.39,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Murray St.Tennessee St.11-2,2026-11-02,Murray St.,Tennessee St.,1,401911707,2026-11-02T16:30:00Z,0.89,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ArmyDuke11-2,2026-11-02,Army,Duke,0,401909562,2026-11-02T23:30:00Z,-0.652,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Bethune CookmanFurman11-2,2026-11-02,Bethune Cookman,Furman,1,401921424,2026-11-03T01:00:00Z,-0.094,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,McNeese St.UAB11-2,2026-11-02,McNeese St.,UAB,1,401919014,2026-11-02T22:30:00Z,0.107,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,QueensWinthrop11-2,2026-11-02,Queens,Winthrop,1,401921423,2026-11-02T14:00:00Z,0.678,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Appalachian St.Merrimack11-2,2026-11-02,Appalachian St.,Merrimack,1,401921422,2026-11-02T11:00:00Z,-0.407,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Grambling St.Northern Illinois11-2,2026-11-02,Grambling St.,Northern Illinois,1,401920912,2026-11-02T08:00:00Z,0.169,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,High PointLiberty11-2,2026-11-02,High Point,Liberty,1,,,-0.253,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Western CarolinaNorth Carolina11-2,2026-11-02,Western Carolina,North Carolina,0,401913099,2026-11-03T00:00:00Z,0.002,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Gardner WebbConnecticut11-2,2026-11-02,Gardner Webb,Connecticut,0,401911390,2026-11-03T02:00:00Z,-0.542,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,OaklandMichigan11-2,2026-11-02,Oakland,Michigan,0,401925733,2026-11-02T23:00:00Z,-0.161,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MaineProvidence11-2,2026-11-02,Maine,Providence,0,401909531,2026-11-03T00:00:00Z,-0.354,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,AkronLouisiana11-2,2026-11-02,Akron,Louisiana,0,401910993,2026-11-03T01:00:00Z,-0.658,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Tennessee TechMississippi St.11-2,2026-11-02,Tennessee Tech,Mississippi St.,0,401906791,2026-11-03T00:30:00Z,0.001,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LafayetteButler11-2,2026-11-02,Lafayette,Butler,0,401902275,2026-11-03T00:00:00Z,-0.246,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Loyola MDGeorgetown11-2,2026-11-02,Loyola MD,Georgetown,0,401921264,2026-11-02T23:30:00Z,-0.056,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LindenwoodTCU11-2,2026-11-02,Lindenwood,TCU,0,401919047,2026-11-03T01:00:00Z,0.275,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,GonzagaPurdue11-2,2026-11-02,Gonzaga,Purdue,1,401921704,2026-11-03T00:30:00Z,-0.303,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,FloridaMiami FL11-2,2026-11-02,Florida,Miami FL,1,401906769,2026-11-02T23:00:00Z,-0.292,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,USC UpstateEast Carolina11-2,2026-11-02,USC Upstate,East Carolina,0,401918976,2026-11-03T00:00:00Z,0.412,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Long Beach St.Utah11-2,2026-11-02,Long Beach St.,Utah,0,401921697,2026-11-03T02:00:00Z,0.29,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,La SalleHouston11-2,2026-11-02,La Salle,Houston,0,401925811,2026-11-03T02:00:00Z,-0.596,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,New HampshireBrown11-2,2026-11-02,New Hampshire,Brown,0,401911304,2026-11-03T00:00:00Z,-0.855,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Illinois St.Saint Mary's11-2,2026-11-02,Illinois St.,Saint Mary's,0,401917507,2026-11-03T03:00:00Z,-0.584,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NiagaraWest Virginia11-2,2026-11-02,Niagara,West Virginia,0,401921766,2026-11-03T00:00:00Z,-0.301,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MassachusettsTroy11-2,2026-11-02,Massachusetts,Troy,0,401911001,2026-11-03T00:00:00Z,-0.07,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Eastern IllinoisIndiana11-2,2026-11-02,Eastern Illinois,Indiana,0,401916286,2026-11-03T00:00:00Z,-0.007,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Florida A&MFlorida St.11-2,2026-11-02,Florida A&M,Florida St.,1,401909694,2026-11-03T02:15:00Z,0.526,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Alcorn St.Mississippi11-2,2026-11-02,Alcorn St.,Mississippi,0,401925683,2026-11-03T01:30:00Z,0.155,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BucknellMaryland11-2,2026-11-02,Bucknell,Maryland,0,401916296,2026-11-03T00:00:00Z,-0.189,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Florida Gulf CoastUCF11-2,2026-11-02,Florida Gulf Coast,UCF,0,401921753,2026-11-03T00:00:00Z,0.033,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,DartmouthMarist11-2,2026-11-02,Dartmouth,Marist,0,401920231,2026-11-03T00:00:00Z,-0.594,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ArizonaUCLA11-2,2026-11-02,Arizona,UCLA,1,401909738,2026-11-03T03:00:00Z,-0.509,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CampbellN.C. State11-2,2026-11-02,Campbell,N.C. State,0,401918955,2026-11-03T00:30:00Z,-0.175,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MonmouthSt. John's11-2,2026-11-02,Monmouth,St. John's,0,401920679,2026-11-02T23:30:00Z,0.149,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Maryland Eastern ShoreWake Forest11-2,2026-11-02,Maryland Eastern Shore,Wake Forest,0,401909725,2026-11-03T01:00:00Z,-0.126,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Robert MorrisNevada11-2,2026-11-02,Robert Morris,Nevada,0,401911452,2026-11-03T03:00:00Z,-0.379,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ToledoArkansas St.11-2,2026-11-02,Toledo,Arkansas St.,0,401910999,2026-11-03T01:00:00Z,0.541,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Southern IndianaBelmont11-2,2026-11-02,Southern Indiana,Belmont,0,401920758,2026-11-03T00:30:00Z,-0.179,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NJITDayton11-2,2026-11-02,NJIT,Dayton,0,401911185,2026-11-03T00:00:00Z,-0.274,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Air ForceWright St.11-2,2026-11-02,Air Force,Wright St.,0,401911333,2026-11-03T00:00:00Z,-1.263,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BuffaloMarshall11-2,2026-11-02,Buffalo,Marshall,0,401910995,2026-11-03T00:00:00Z,0.43,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CanisiusPenn St.11-2,2026-11-02,Canisius,Penn St.,0,401917173,2026-11-03T00:30:00Z,0.134,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Chicago St.Texas11-2,2026-11-02,Chicago St.,Texas,0,401906863,2026-11-03T02:00:00Z,0.093,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Saint Peter'sSeton Hall11-2,2026-11-02,Saint Peter's,Seton Hall,0,401920886,2026-11-03T00:30:00Z,-0.348,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BYUOhio St.11-2,2026-11-02,BYU,Ohio St.,1,401916313,2026-11-03T02:00:00Z,-0.084,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Bowling GreenGeorgia St.11-2,2026-11-02,Bowling Green,Georgia St.,0,401910994,2026-11-02T23:00:00Z,0.102,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SouthernSMU11-2,2026-11-02,Southern,SMU,0,401918967,2026-11-03T01:00:00Z,0.454,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North DakotaMinnesota11-2,2026-11-02,North Dakota,Minnesota,0,401916303,2026-11-03T02:00:00Z,-0.658,,2026-11-01,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,WagnerBoston College11-3,2026-11-03,Wagner,Boston College,0,401909551,2026-11-04T00:00:00Z,-0.286,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern ArizonaUNLV11-3,2026-11-03,Northern Arizona,UNLV,0,401924911,2026-11-04T03:00:00Z,-0.317,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HamptonGeorgia Tech11-3,2026-11-03,Hampton,Georgia Tech,0,401920304,2026-11-04T00:00:00Z,-0.264,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Arkansas Pine BluffArkansas11-3,2026-11-03,Arkansas Pine Bluff,Arkansas,0,401929372,2026-11-04T01:00:00Z,0.74,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Purdue Fort WayneDuquesne11-3,2026-11-03,Purdue Fort Wayne,Duquesne,0,401925779,2026-11-04T00:00:00Z,0.115,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,StetsonSouth Carolina11-3,2026-11-03,Stetson,South Carolina,0,401921819,2026-11-04T00:00:00Z,-1.02,,2026-11-02,1.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,New OrleansLSU11-3,2026-11-03,New Orleans,LSU,0,401921808,2026-11-04T01:00:00Z,-0.034,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LipscombIowa11-3,2026-11-03,Lipscomb,Iowa,0,401920702,2026-11-04T01:00:00Z,-0.905,,2026-11-02,1.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,South Dakota St.Kansas St.11-3,2026-11-03,South Dakota St.,Kansas St.,0,401909796,2026-11-04T01:00:00Z,-0.197,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,DrexelVirginia11-3,2026-11-03,Drexel,Virginia,0,401920422,2026-11-04T00:30:00Z,-0.681,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,WoffordTennessee11-3,2026-11-03,Wofford,Tennessee,0,401906848,2026-11-03T23:00:00Z,-0.152,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Holy CrossRhode Island11-3,2026-11-03,Holy Cross,Rhode Island,0,401920061,2026-11-04T00:00:00Z,-0.39,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cleveland St.Missouri11-3,2026-11-03,Cleveland St.,Missouri,0,401921165,2026-11-04T01:00:00Z,0.122,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Alabama St.Texas A&M11-3,2026-11-03,Alabama St.,Texas A&M,0,401920806,2026-11-04T01:00:00Z,0.088,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ManhattanKentucky11-3,2026-11-03,Manhattan,Kentucky,0,401921801,2026-11-04T00:00:00Z,0.281,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cal St. FullertonSan Diego St.11-3,2026-11-03,Cal St. Fullerton,San Diego St.,0,401920155,2026-11-04T03:00:00Z,-0.009,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Coppin St.Virginia Tech11-3,2026-11-03,Coppin St.,Virginia Tech,0,401920376,2026-11-04T00:00:00Z,-0.427,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North FloridaCal Baptist11-3,2026-11-03,North Florida,Cal Baptist,0,401920343,2026-11-04T03:00:00Z,-0.344,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Sam Houston St.Alabama11-3,2026-11-03,Sam Houston St.,Alabama,0,401906757,2026-11-04T00:30:00Z,0.57,,2026-11-02,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern KentuckySouth Dakota11-4,2026-11-04,Northern Kentucky,South Dakota,0,401928811,2026-11-05T01:00:00Z,0.426,,2026-11-03,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North Dakota St.Saint Mary's11-4,2026-11-04,North Dakota St.,Saint Mary's,0,401917512,2026-11-05T03:00:00Z,-1.954,UNDER,2026-11-03,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,QueensLoyola Marymount11-4,2026-11-04,Queens,Loyola Marymount,0,401917514,2026-11-05T03:00:00Z,-0.953,,2026-11-03,1.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MilwaukeeSanta Clara11-4,2026-11-04,Milwaukee,Santa Clara,0,401917513,2026-11-05T03:00:00Z,-0.553,,2026-11-03,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,RadfordCalifornia11-4,2026-11-04,Radford,California,0,401918052,2026-11-05T02:00:00Z,-0.488,,2026-11-03,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cal St. NorthridgeWichita St.11-4,2026-11-04,Cal St. Northridge,Wichita St.,0,401919028,2026-11-05T00:30:00Z,-0.233,,2026-11-03,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Maryland Eastern ShoreHigh Point11-4,2026-11-04,Maryland Eastern Shore,High Point,0,401920410,2026-11-05T00:00:00Z,-0.317,,2026-11-03,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Southeastern LouisianaAuburn11-4,2026-11-04,Southeastern Louisiana,Auburn,0,401920798,2026-11-05T01:00:00Z,-0.321,,2026-11-03,0.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LongwoodSaint Joseph's11-4,2026-11-04,Longwood,Saint Joseph's,0,401920191,2026-11-05T00:00:00Z,-1.011,,2026-11-03,1.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Fairleigh DickinsonButler11-4,2026-11-04,Fairleigh Dickinson,Butler,0,401902276,2026-11-05T00:00:00Z,2.149,OVER,2026-11-03,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Delaware St.Navy11-5,2026-11-05,Delaware St.,Navy,0,401921219,2026-11-06T00:00:00Z,-0.284,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Central ConnecticutSyracuse11-5,2026-11-05,Central Connecticut,Syracuse,0,401909717,2026-11-06T00:00:00Z,0.054,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,West GeorgiaLoyola Chicago11-5,2026-11-05,West Georgia,Loyola Chicago,0,401911229,2026-11-06T01:00:00Z,0.784,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HofstraPrinceton11-5,2026-11-05,Hofstra,Princeton,0,401924733,2026-11-06T00:00:00Z,-2.279,UNDER,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NJITIona11-5,2026-11-05,NJIT,Iona,0,401920864,2026-11-06T00:00:00Z,1.197,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Chicago St.Incarnate Word11-5,2026-11-05,Chicago St.,Incarnate Word,0,401919732,2026-11-06T00:00:00Z,-0.231,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MaineSacred Heart11-5,2026-11-05,Maine,Sacred Heart,0,401921682,2026-11-06T00:00:00Z,-0.521,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Coastal CarolinaDuke11-5,2026-11-05,Coastal Carolina,Duke,0,401909563,2026-11-06T01:00:00Z,-0.872,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CornellLehigh11-5,2026-11-05,Cornell,Lehigh,0,401924718,2026-11-06T00:00:00Z,-0.19,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UMass LowellMerrimack11-5,2026-11-05,UMass Lowell,Merrimack,0,401921679,2026-11-06T00:00:00Z,-0.462,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BryantQuinnipiac11-5,2026-11-05,Bryant,Quinnipiac,0,401921680,2026-11-06T00:00:00Z,0.129,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LIUSeton Hall11-5,2026-11-05,LIU,Seton Hall,0,401919804,2026-11-05T23:30:00Z,-0.552,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Bethune CookmanTexas Tech11-5,2026-11-05,Bethune Cookman,Texas Tech,0,401921133,2026-11-06T02:00:00Z,-0.678,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,East Texas A&MRice11-5,2026-11-05,East Texas A&M,Rice,0,401921094,2026-11-06T01:00:00Z,-0.147,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,South FloridaDePaul11-5,2026-11-05,South Florida,DePaul,0,401909501,2026-11-06T01:30:00Z,0.441,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Le MoyneCreighton11-5,2026-11-05,Le Moyne,Creighton,0,401909491,2026-11-06T01:00:00Z,-0.214,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UMBCMarist11-5,2026-11-05,UMBC,Marist,0,401921084,2026-11-06T00:00:00Z,1.021,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PennIllinois11-5,2026-11-05,Penn,Illinois,0,401913526,2026-11-06T01:30:00Z,-0.308,,2026-11-04,0.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Jackson St.Tulane11-5,2026-11-05,Jackson St.,Tulane,0,401919002,2026-11-06T00:30:00Z,-1.084,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Green BayCincinnati11-5,2026-11-05,Green Bay,Cincinnati,0,401921747,2026-11-06T00:00:00Z,-1.002,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,New HampshireRider11-5,2026-11-05,New Hampshire,Rider,0,401921681,2026-11-06T00:00:00Z,0.12,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,McNeese St.North Texas11-5,2026-11-05,McNeese St.,North Texas,0,401925031,2026-11-05T22:00:00Z,-1.758,UNDER,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,TowsonUtah11-5,2026-11-05,Towson,Utah,0,401921698,2026-11-06T02:00:00Z,-1.466,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Jacksonville St.South Alabama11-5,2026-11-05,Jacksonville St.,South Alabama,0,401926780,2026-11-06T01:00:00Z,-1.349,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northwestern St.Mississippi St.11-5,2026-11-05,Northwestern St.,Mississippi St.,0,401906792,2026-11-06T00:30:00Z,0.005,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,AlbanyManhattan11-5,2026-11-05,Albany,Manhattan,0,401921678,2026-11-06T00:00:00Z,0.134,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Gardner WebbTexas11-5,2026-11-05,Gardner Webb,Texas,0,401906864,2026-11-06T01:00:00Z,0.084,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,JacksonvilleFlorida11-5,2026-11-05,Jacksonville,Florida,0,401906770,2026-11-06T01:00:00Z,-1.898,UNDER,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BinghamtonSaint Peter's11-5,2026-11-05,Binghamton,Saint Peter's,0,401911273,2026-11-06T00:00:00Z,-0.369,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,VMISMU11-5,2026-11-05,VMI,SMU,0,401918968,2026-11-06T01:00:00Z,-0.787,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Wake ForestVanderbilt11-5,2026-11-05,Wake Forest,Vanderbilt,0,401909726,2026-11-05T23:00:00Z,0.034,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BuffaloPittsburgh11-5,2026-11-05,Buffalo,Pittsburgh,0,401909706,2026-11-06T00:00:00Z,-0.559,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cal PolyArizona11-5,2026-11-05,Cal Poly,Arizona,0,401909739,2026-11-06T03:30:00Z,0.722,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,StonehillFordham11-5,2026-11-05,Stonehill,Fordham,0,401911195,2026-11-06T00:30:00Z,0.005,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BellarmineIndiana11-5,2026-11-05,Bellarmine,Indiana,0,401916287,2026-11-05T23:00:00Z,-0.223,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ChattanoogaPenn St.11-5,2026-11-05,Chattanooga,Penn St.,0,401917177,2026-11-05T23:00:00Z,0.902,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ToledoMichigan St.11-5,2026-11-05,Toledo,Michigan St.,0,401925754,2026-11-06T01:00:00Z,-0.648,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MercyhurstNotre Dame11-5,2026-11-05,Mercyhurst,Notre Dame,0,401919823,2026-11-06T00:00:00Z,0.882,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Georgia St.Charlotte11-5,2026-11-05,Georgia St.,Charlotte,0,401925819,2026-11-06T00:00:00Z,-0.44,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MercerVirginia Tech11-5,2026-11-05,Mercer,Virginia Tech,0,401920377,2026-11-06T00:00:00Z,-0.245,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,VermontFairfield11-5,2026-11-05,Vermont,Fairfield,0,401920691,2026-11-06T00:00:00Z,-0.648,,2026-11-04,1.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern IllinoisTulsa11-5,2026-11-05,Northern Illinois,Tulsa,0,401920913,2026-11-06T01:00:00Z,-1.427,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HowardAlcorn St.11-5,2026-11-05,Howard,Alcorn St.,0,401925684,2026-11-06T00:00:00Z,0.662,,2026-11-04,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ValparaisoPurdue11-6,2026-11-06,Valparaiso,Purdue,0,401926131,2026-11-06T23:30:00Z,-1.702,UNDER,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern ColoradoArizona St.11-6,2026-11-06,Northern Colorado,Arizona St.,0,401921732,2026-11-07T02:00:00Z,-0.83,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UNC GreensboroElon11-6,2026-11-06,UNC Greensboro,Elon,0,401921140,2026-11-07T00:00:00Z,-0.356,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Tarleton St.San Diego11-6,2026-11-06,Tarleton St.,San Diego,0,401917515,2026-11-07T02:30:00Z,-0.209,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Central ArkansasMississippi11-6,2026-11-06,Central Arkansas,Mississippi,0,401917914,2026-11-07T01:30:00Z,-0.67,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,DelawareWisconsin11-6,2026-11-06,Delaware,Wisconsin,0,401920894,2026-11-07T00:30:00Z,-0.694,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Arkansas Pine BluffBaylor11-6,2026-11-06,Arkansas Pine Bluff,Baylor,0,401909751,2026-11-06T22:00:00Z,0.076,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Holy CrossVillanova11-6,2026-11-06,Holy Cross,Villanova,0,401921285,2026-11-07T00:00:00Z,-0.285,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,AmericanClemson11-6,2026-11-06,American,Clemson,0,401912208,2026-11-07T00:00:00Z,0.363,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Georgia SouthernGeorgia Tech11-6,2026-11-06,Georgia Southern,Georgia Tech,0,401920305,2026-11-07T00:00:00Z,0.544,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Florida AtlanticWright St.11-6,2026-11-06,Florida Atlantic,Wright St.,0,401923260,2026-11-07T00:30:00Z,-0.644,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,St. ThomasMinnesota11-6,2026-11-06,St. Thomas,Minnesota,0,401916304,2026-11-07T01:00:00Z,-0.003,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Detroit MercyMarquette11-6,2026-11-06,Detroit Mercy,Marquette,0,401909523,2026-11-07T01:00:00Z,0.103,,2026-11-05,0.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North FloridaUCLA11-6,2026-11-06,North Florida,UCLA,0,401922219,2026-11-07T03:30:00Z,-0.132,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,South Carolina St.USC Upstate11-6,2026-11-06,South Carolina St.,USC Upstate,0,401922059,2026-11-06T23:30:00Z,-0.521,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Middle TennesseeKansas11-6,2026-11-06,Middle Tennessee,Kansas,0,401909785,2026-11-07T02:00:00Z,-1.419,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North Dakota St.San Francisco11-6,2026-11-06,North Dakota St.,San Francisco,0,401921061,2026-11-07T03:00:00Z,-1.423,,2026-11-05,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Texas SouthernLSU11-6,2026-11-06,Texas Southern,LSU,0,401921809,2026-11-07T01:00:00Z,0.256,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Southern MissIowa St.11-6,2026-11-06,Southern Miss,Iowa St.,0,401909772,2026-11-07T01:00:00Z,0.356,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Southern IllinoisUMKC11-6,2026-11-06,Southern Illinois,UMKC,0,401920952,2026-11-07T02:15:00Z,0.576,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PresbyterianGeorgia11-6,2026-11-06,Presbyterian,Georgia,0,401906780,2026-11-07T00:00:00Z,-2.058,UNDER,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Robert MorrisIllinois Chicago11-6,2026-11-06,Robert Morris,Illinois Chicago,0,401928823,2026-11-07T01:00:00Z,0.347,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,New HavenRutgers11-6,2026-11-06,New Haven,Rutgers,0,401926135,2026-11-07T00:00:00Z,-0.755,,2026-11-05,1.0,0.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,IdahoColorado St.11-6,2026-11-06,Idaho,Colorado St.,0,401922261,2026-11-07T02:00:00Z,-0.904,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Mississippi Valley St.Oklahoma11-6,2026-11-06,Mississippi Valley St.,Oklahoma,0,401906802,2026-11-07T01:00:00Z,-0.891,,2026-11-05,0.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Youngstown St.Ohio St.11-6,2026-11-06,Youngstown St.,Ohio St.,0,401916314,2026-11-06T23:30:00Z,-0.012,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PortlandUT Arlington11-6,2026-11-06,Portland,UT Arlington,1,401929356,2026-11-07T02:30:00Z,-0.4,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Eastern WashingtonOregon11-6,2026-11-06,Eastern Washington,Oregon,0,401920717,2026-11-06T23:00:00Z,-1.016,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,QueensOklahoma St.11-6,2026-11-06,Queens,Oklahoma St.,0,401919040,2026-11-07T02:00:00Z,-0.703,,2026-11-05,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Indiana St.Ball St.11-6,2026-11-06,Indiana St.,Ball St.,0,401911005,2026-11-07T00:00:00Z,-0.51,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Idaho St.Wyoming11-6,2026-11-06,Idaho St.,Wyoming,0,401922021,2026-11-07T01:30:00Z,-0.085,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cal BaptistOregon St.11-6,2026-11-06,Cal Baptist,Oregon St.,0,401920344,2026-11-07T02:30:00Z,2.574,OVER,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Loyola MDMount St. Mary's11-6,2026-11-06,Loyola MD,Mount St. Mary's,0,401920920,2026-11-07T00:00:00Z,1.444,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Coppin St.George Mason11-6,2026-11-06,Coppin St.,George Mason,0,401920072,2026-11-07T00:00:00Z,-0.027,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Texas A&M Corpus ChrisLouisiana11-6,2026-11-06,Texas A&M Corpus Chris,Louisiana,0,401925097,2026-11-07T01:00:00Z,0.243,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern KentuckyTexas A&M11-6,2026-11-06,Northern Kentucky,Texas A&M,0,401920807,2026-11-07T01:00:00Z,-0.025,,2026-11-05,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,YaleUCF11-6,2026-11-06,Yale,UCF,0,401921754,2026-11-07T00:00:00Z,0.317,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,James MadisonKentucky11-6,2026-11-06,James Madison,Kentucky,0,401921802,2026-11-07T00:00:00Z,0.583,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Austin PeayKennesaw St.11-6,2026-11-06,Austin Peay,Kennesaw St.,0,401917949,2026-11-07T00:00:00Z,-0.782,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Eastern MichiganXavier11-6,2026-11-06,Eastern Michigan,Xavier,0,401909542,2026-11-07T00:00:00Z,0.103,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NortheasternVirginia11-6,2026-11-06,Northeastern,Virginia,0,401920423,2026-11-06T22:00:00Z,-0.691,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,WagnerMiami FL11-6,2026-11-06,Wagner,Miami FL,0,401921719,2026-11-07T02:00:00Z,-0.747,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,OaklandStanford11-6,2026-11-06,Oakland,Stanford,0,401921727,2026-11-07T03:00:00Z,1.297,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SouthernTCU11-6,2026-11-06,Southern,TCU,0,401919048,2026-11-07T01:00:00Z,-0.905,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MissouriSaint Louis11-6,2026-11-06,Missouri,Saint Louis,1,401911249,2026-11-07T00:00:00Z,-1.088,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Eastern IllinoisIowa11-6,2026-11-06,Eastern Illinois,Iowa,0,401920726,2026-11-07T01:30:00Z,-1.331,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,WoffordNorth Carolina11-6,2026-11-06,Wofford,North Carolina,0,401913100,2026-11-07T00:00:00Z,0.271,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,East Tennessee St.N.C. State11-6,2026-11-06,East Tennessee St.,N.C. State,0,401918956,2026-11-07T00:00:00Z,0.331,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ConnecticutMichigan11-6,2026-11-06,Connecticut,Michigan,1,401920685,2026-11-07T01:00:00Z,-1.733,UNDER,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Arkansas St.Alabama11-6,2026-11-06,Arkansas St.,Alabama,0,401906758,2026-11-07T00:30:00Z,1.511,OVER,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cal St. NorthridgeKansas St.11-6,2026-11-06,Cal St. Northridge,Kansas St.,0,401909797,2026-11-07T02:00:00Z,1.013,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Stony BrookNorthwestern11-6,2026-11-06,Stony Brook,Northwestern,0,401920733,2026-11-07T01:00:00Z,-1.421,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,TroyFlorida St.11-6,2026-11-06,Troy,Florida St.,0,401909695,2026-11-07T00:00:00Z,0.019,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Nebraska OmahaBYU11-6,2026-11-06,Nebraska Omaha,BYU,0,401921739,2026-11-07T02:00:00Z,-0.01,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Boston UniversityBrown11-6,2026-11-06,Boston University,Brown,0,401911305,2026-11-07T00:00:00Z,-1.888,UNDER,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Nicholls St.UAB11-6,2026-11-06,Nicholls St.,UAB,0,401919015,2026-11-07T00:30:00Z,0.435,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Boston CollegeMassachusetts11-6,2026-11-06,Boston College,Massachusetts,1,401909552,2026-11-06T21:00:00Z,0.174,,2026-11-05,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,StetsonWest Virginia11-6,2026-11-06,Stetson,West Virginia,0,401921767,2026-11-07T00:00:00Z,-1.239,,2026-11-05,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,VCUMemphis11-7,2026-11-07,VCU,Memphis,0,401918986,2026-11-07T20:00:00Z,0.572,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LamarAbilene Christian11-7,2026-11-07,Lamar,Abilene Christian,0,401917962,2026-11-07T19:00:00Z,-0.429,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Morehead St.Louisville11-7,2026-11-07,Morehead St.,Louisville,0,401918948,2026-11-07T17:00:00Z,0.072,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,DenverUC Riverside11-7,2026-11-07,Denver,UC Riverside,0,401926227,2026-11-08T00:30:00Z,-0.266,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North Carolina A&TOhio11-7,2026-11-07,North Carolina A&T,Ohio,0,401921154,2026-11-07T18:00:00Z,0.003,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Southern IndianaEvansville11-7,2026-11-07,Southern Indiana,Evansville,0,401923392,2026-11-08T01:00:00Z,-0.569,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,VMIUTSA11-7,2026-11-07,VMI,UTSA,0,401926201,2026-11-07T22:00:00Z,-0.185,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Bethune CookmanGrand Canyon11-7,2026-11-07,Bethune Cookman,Grand Canyon,0,401911345,2026-11-08T01:00:00Z,-1.195,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LIULa Salle11-7,2026-11-07,LIU,La Salle,0,401919805,2026-11-07T20:30:00Z,-0.441,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BellarmineMiami OH11-7,2026-11-07,Bellarmine,Miami OH,0,401911007,2026-11-07T22:00:00Z,-0.47,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Old DominionBucknell11-7,2026-11-07,Old Dominion,Bucknell,0,401924940,2026-11-07T22:00:00Z,1.064,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,New Mexico St.Gonzaga11-7,2026-11-07,New Mexico St.,Gonzaga,0,401928788,2026-11-07T22:00:00Z,1.178,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Sacramento St.Santa Clara11-7,2026-11-07,Sacramento St.,Santa Clara,0,401917519,2026-11-08T03:00:00Z,-0.08,,2026-11-06,1.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Fresno St.UC San Diego11-7,2026-11-07,Fresno St.,UC San Diego,0,401920371,2026-11-08T03:00:00Z,-1.553,UNDER,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Prairie View A&MUT Rio Grande Valley11-7,2026-11-07,Prairie View A&M,UT Rio Grande Valley,0,401925106,2026-11-07T22:30:00Z,-0.925,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,San Jose St.UC Irvine11-7,2026-11-07,San Jose St.,UC Irvine,0,401911470,2026-11-08T03:00:00Z,-1.398,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Houston ChristianWestern Illinois11-7,2026-11-07,Houston Christian,Western Illinois,0,401924951,2026-11-08T00:00:00Z,-0.949,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Morgan St.Niagara11-7,2026-11-07,Morgan St.,Niagara,0,401924843,2026-11-07T23:30:00Z,-0.812,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SamfordUNLV11-7,2026-11-07,Samford,UNLV,0,401924912,2026-11-07T21:00:00Z,-1.94,UNDER,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Nebraska OmahaUtah St.11-7,2026-11-07,Nebraska Omaha,Utah St.,0,401929293,2026-11-07T21:00:00Z,-0.647,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MercerDavidson11-7,2026-11-07,Mercer,Davidson,0,401925772,2026-11-08T00:00:00Z,-0.021,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HamptonGeorge Washington11-7,2026-11-07,Hampton,George Washington,0,401926825,2026-11-07T23:00:00Z,1.148,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern ArizonaNew Mexico11-7,2026-11-07,Northern Arizona,New Mexico,0,401924895,2026-11-07T23:00:00Z,-0.654,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Portland St.Seattle11-7,2026-11-07,Portland St.,Seattle,0,401917517,2026-11-08T03:00:00Z,-1.838,UNDER,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UNC WilmingtonEast Carolina11-7,2026-11-07,UNC Wilmington,East Carolina,0,401918977,2026-11-07T19:00:00Z,0.065,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Long Beach St.Montana St.11-7,2026-11-07,Long Beach St.,Montana St.,0,401924264,2026-11-07T20:00:00Z,-0.454,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Utah ValleyWeber St.11-7,2026-11-07,Utah Valley,Weber St.,0,401920435,2026-11-08T02:00:00Z,0.721,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cal St. FullertonSouth Dakota11-7,2026-11-07,Cal St. Fullerton,South Dakota,0,401920156,2026-11-07T19:00:00Z,0.125,,2026-11-06,1.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Western CarolinaUNC Asheville11-7,2026-11-07,Western Carolina,UNC Asheville,0,401922291,2026-11-07T22:30:00Z,-0.698,,2026-11-06,1.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northwestern St.Murray St.11-7,2026-11-07,Northwestern St.,Murray St.,0,401925077,2026-11-08T01:00:00Z,0.008,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LafayetteSaint Joseph's11-7,2026-11-07,Lafayette,Saint Joseph's,0,401920192,2026-11-07T21:00:00Z,-0.633,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,OaklandUC Santa Barbara11-7,2026-11-07,Oakland,UC Santa Barbara,0,401928352,2026-11-07T21:00:00Z,0.674,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Southeastern LouisianaLittle Rock11-7,2026-11-07,Southeastern Louisiana,Little Rock,0,401920816,2026-11-08T01:00:00Z,-0.181,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,St. BonaventureCanisius11-7,2026-11-07,St. Bonaventure,Canisius,0,401911262,2026-11-08T00:00:00Z,0.094,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Washington St.High Point11-7,2026-11-07,Washington St.,High Point,0,401920411,2026-11-07T22:00:00Z,0.131,,2026-11-06,1.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North DakotaWinthrop11-7,2026-11-07,North Dakota,Winthrop,0,401925707,2026-11-07T17:00:00Z,0.267,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NebraskaProvidence11-7,2026-11-07,Nebraska,Providence,1,401909532,2026-11-08T00:00:00Z,-1.702,UNDER,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern IllinoisDayton11-7,2026-11-07,Northern Illinois,Dayton,0,401911186,2026-11-08T00:00:00Z,-0.399,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ColoradoSan Diego St.11-7,2026-11-07,Colorado,San Diego St.,1,401909760,2026-11-07T20:30:00Z,-0.119,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MarylandGeorgetown11-7,2026-11-07,Maryland,Georgetown,0,401909513,2026-11-08T00:30:00Z,-0.171,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ColgateDrexel11-7,2026-11-07,Colgate,Drexel,0,401920770,2026-11-07T19:00:00Z,-0.9,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern IowaFurman11-7,2026-11-07,Northern Iowa,Furman,0,401926112,2026-11-07T22:00:00Z,-1.012,,2026-11-06,1.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SIU EdwardsvilleLipscomb11-7,2026-11-07,SIU Edwardsville,Lipscomb,0,401920703,2026-11-07T22:00:00Z,-0.402,,2026-11-06,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Tennessee MartinIU Indy11-7,2026-11-07,Tennessee Martin,IU Indy,0,401921174,2026-11-07T22:00:00Z,-1.582,UNDER,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PacificBradley11-7,2026-11-07,Pacific,Bradley,0,401917518,2026-11-08T01:00:00Z,-0.831,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ToledoMarshall11-7,2026-11-07,Toledo,Marshall,0,401920856,2026-11-07T19:00:00Z,0.267,,2026-11-06,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MonmouthRhode Island11-7,2026-11-07,Monmouth,Rhode Island,1,401920062,2026-11-07T21:00:00Z,-0.404,,2026-11-06,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North Carolina CentralLongwood11-7,2026-11-07,North Carolina Central,Longwood,0,401922044,2026-11-07T20:00:00Z,-0.1,,2026-11-06,1.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Green BaySt. Thomas11-8,2026-11-08,Green Bay,St. Thomas,0,401920843,2026-11-08T19:00:00Z,-0.006,,2026-11-07,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,RiderBinghamton11-8,2026-11-08,Rider,Binghamton,0,401911274,2026-11-08T21:00:00Z,-0.002,,2026-11-07,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Western KentuckyTennessee Tech11-8,2026-11-08,Western Kentucky,Tennessee Tech,0,401926215,2026-11-08T20:00:00Z,-0.494,,2026-11-07,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PrincetonSiena11-8,2026-11-08,Princeton,Siena,0,401924734,2026-11-08T18:00:00Z,-0.176,,2026-11-07,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Sacred HeartNew Hampshire11-8,2026-11-08,Sacred Heart,New Hampshire,0,401921685,2026-11-08T18:00:00Z,0.693,,2026-11-07,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CaliforniaHouston11-8,2026-11-08,California,Houston,1,401918053,2026-11-09T01:30:00Z,-0.691,,2026-11-07,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UT ArlingtonHawaii11-8,2026-11-08,UT Arlington,Hawaii,0,401929002,2026-11-09T03:00:00Z,-0.609,,2026-11-07,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,RichmondTemple11-8,2026-11-08,Richmond,Temple,1,401911238,2026-11-08T22:00:00Z,-1.371,,2026-11-07,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,FairfieldBryant11-8,2026-11-08,Fairfield,Bryant,0,401921683,2026-11-08T18:00:00Z,0.023,,2026-11-07,1.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MaristUMass Lowell11-8,2026-11-08,Marist,UMass Lowell,0,401921687,2026-11-08T18:00:00Z,-0.265,,2026-11-07,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MerrimackAlbany11-8,2026-11-08,Merrimack,Albany,0,401921686,2026-11-08T19:00:00Z,-0.18,,2026-11-07,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North Dakota St.Cal St. Bakersfield11-8,2026-11-08,North Dakota St.,Cal St. Bakersfield,0,401920134,2026-11-08T23:00:00Z,-1.95,UNDER,2026-11-07,3.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Incarnate WordUTEP11-8,2026-11-08,Incarnate Word,UTEP,0,401929352,2026-11-09T00:00:00Z,0.413,,2026-11-07,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,QuinnipiacVermont11-8,2026-11-08,Quinnipiac,Vermont,0,401920692,2026-11-08T19:00:00Z,0.718,,2026-11-07,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CampbellWestern Michigan11-8,2026-11-08,Campbell,Western Michigan,0,401920739,2026-11-08T19:00:00Z,0.348,,2026-11-07,1.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Southeast Missouri St.South Carolina11-8,2026-11-08,Southeast Missouri St.,South Carolina,0,401921820,2026-11-08T18:00:00Z,-1.721,UNDER,2026-11-07,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Saint Peter'sNJIT11-8,2026-11-08,Saint Peter's,NJIT,0,401920865,2026-11-08T21:00:00Z,1.05,,2026-11-07,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ButlerBoise St.11-8,2026-11-08,Butler,Boise St.,0,401902277,2026-11-08T19:00:00Z,-0.95,,2026-11-07,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Penn St.Pittsburgh11-8,2026-11-08,Penn St.,Pittsburgh,1,401909707,2026-11-09T01:00:00Z,-0.774,,2026-11-07,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,USCWichita St.11-8,2026-11-08,USC,Wichita St.,1,401919029,2026-11-09T04:00:00Z,0.08,,2026-11-07,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Idaho St.Air Force11-8,2026-11-08,Idaho St.,Air Force,0,401911335,2026-11-08T20:00:00Z,1.197,,2026-11-07,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Central ConnecticutDartmouth11-8,2026-11-08,Central Connecticut,Dartmouth,0,401920233,2026-11-08T19:00:00Z,-0.649,,2026-11-07,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ManhattanMaine11-8,2026-11-08,Manhattan,Maine,0,401921684,2026-11-08T18:00:00Z,0.729,,2026-11-07,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BrownLehigh11-8,2026-11-08,Brown,Lehigh,0,401911306,2026-11-08T19:00:00Z,-1.092,,2026-11-07,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,IonaSt. John's11-8,2026-11-08,Iona,St. John's,0,401924646,2026-11-08T17:00:00Z,0.42,,2026-11-07,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Norfolk St.William & Mary11-8,2026-11-08,Norfolk St.,William & Mary,0,401925894,2026-11-08T23:00:00Z,0.74,,2026-11-07,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ArkansasVirginia11-8,2026-11-08,Arkansas,Virginia,1,401920424,2026-11-08T18:00:00Z,-1.693,UNDER,2026-11-07,1.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SouthernDrake11-8,2026-11-08,Southern,Drake,0,401927362,2026-11-08T20:00:00Z,-1.416,,2026-11-07,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NevadaSaint Mary's11-8,2026-11-08,Nevada,Saint Mary's,1,401911453,2026-11-08T21:30:00Z,-1.041,,2026-11-07,1.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PortlandHawaii11-9,2026-11-09,Portland,Hawaii,0,401929003,2026-11-10T04:59:00Z,-1.575,UNDER,2026-11-08,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MinnesotaCincinnati11-9,2026-11-09,Minnesota,Cincinnati,0,401916305,2026-11-10T00:00:00Z,-0.135,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,USC UpstateCoastal Carolina11-9,2026-11-09,USC Upstate,Coastal Carolina,0,401922060,2026-11-10T00:00:00Z,-0.775,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Boston UniversityNorthwestern11-9,2026-11-09,Boston University,Northwestern,0,401920734,2026-11-10T01:00:00Z,-0.948,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Appalachian St.Auburn11-9,2026-11-09,Appalachian St.,Auburn,0,401920799,2026-11-10T02:00:00Z,-0.148,,2026-11-08,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MarshallOhio St.11-9,2026-11-09,Marshall,Ohio St.,0,401916315,2026-11-09T23:00:00Z,-0.236,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UMKCJacksonville11-9,2026-11-09,UMKC,Jacksonville,0,401920877,2026-11-10T00:00:00Z,-1.385,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Florida Gulf CoastGeorgia11-9,2026-11-09,Florida Gulf Coast,Georgia,0,401906781,2026-11-10T00:00:00Z,-1.05,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,RiceStanford11-9,2026-11-09,Rice,Stanford,0,401921095,2026-11-10T03:00:00Z,0.091,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Louisiana TechLSU11-9,2026-11-09,Louisiana Tech,LSU,0,401921810,2026-11-10T01:00:00Z,-0.714,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CharlotteSeton Hall11-9,2026-11-09,Charlotte,Seton Hall,1,401920887,2026-11-10T02:00:00Z,-1.209,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UNC GreensboroIllinois Chicago11-9,2026-11-09,UNC Greensboro,Illinois Chicago,0,401926181,2026-11-10T00:00:00Z,-0.702,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Eastern WashingtonOregon St.11-9,2026-11-09,Eastern Washington,Oregon St.,0,401920718,2026-11-10T02:30:00Z,0.322,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HowardPenn11-9,2026-11-09,Howard,Penn,0,401921180,2026-11-09T23:30:00Z,1.244,,2026-11-08,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Mississippi Valley St.Washington11-9,2026-11-09,Mississippi Valley St.,Washington,0,401925737,2026-11-10T03:00:00Z,0.7,,2026-11-08,1.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,South Carolina St.Chicago St.11-9,2026-11-09,South Carolina St.,Chicago St.,0,401919733,2026-11-10T00:00:00Z,0.438,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,RadfordTennessee11-9,2026-11-09,Radford,Tennessee,0,401906849,2026-11-10T00:00:00Z,-0.135,,2026-11-08,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LIUTowson11-9,2026-11-09,LIU,Towson,0,401919806,2026-11-10T00:00:00Z,-1.509,UNDER,2026-11-08,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,IndianaSyracuse11-9,2026-11-09,Indiana,Syracuse,1,401909718,2026-11-09T23:30:00Z,-1.183,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Jackson St.Mississippi St.11-9,2026-11-09,Jackson St.,Mississippi St.,0,401906793,2026-11-10T00:30:00Z,-0.132,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,OaklandAlabama11-9,2026-11-09,Oakland,Alabama,0,401906759,2026-11-10T00:30:00Z,0.609,,2026-11-08,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North FloridaMiami FL11-9,2026-11-09,North Florida,Miami FL,0,401921720,2026-11-10T00:00:00Z,-0.056,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SIU EdwardsvilleMissouri11-9,2026-11-09,SIU Edwardsville,Missouri,0,401921815,2026-11-10T01:00:00Z,-2.112,UNDER,2026-11-08,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North DakotaClemson11-9,2026-11-09,North Dakota,Clemson,0,401918074,2026-11-10T00:00:00Z,-0.167,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Grambling St.Texas11-9,2026-11-09,Grambling St.,Texas,0,401906865,2026-11-10T00:00:00Z,-1.586,UNDER,2026-11-08,1.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cleveland St.Bowling Green11-9,2026-11-09,Cleveland St.,Bowling Green,0,401911010,2026-11-10T00:00:00Z,-0.598,,2026-11-08,2.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Louisiana MonroeTexas A&M11-9,2026-11-09,Louisiana Monroe,Texas A&M,0,401917978,2026-11-10T01:00:00Z,-0.226,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Alabama A&MDePaul11-9,2026-11-09,Alabama A&M,DePaul,0,401909502,2026-11-10T02:00:00Z,-0.97,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Eastern IllinoisNotre Dame11-9,2026-11-09,Eastern Illinois,Notre Dame,0,401925681,2026-11-10T00:00:00Z,-0.669,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,StonehillColumbia11-9,2026-11-09,Stonehill,Columbia,0,401919846,2026-11-10T00:00:00Z,-0.722,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Florida A&MUAB11-9,2026-11-09,Florida A&M,UAB,0,401919016,2026-11-10T00:30:00Z,1.369,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Illinois St.Purdue11-9,2026-11-09,Illinois St.,Purdue,0,401926132,2026-11-10T01:30:00Z,-0.311,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North AlabamaOklahoma11-9,2026-11-09,North Alabama,Oklahoma,0,401906803,2026-11-10T01:00:00Z,-0.588,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,WagnerConnecticut11-9,2026-11-09,Wagner,Connecticut,0,401920686,2026-11-10T00:00:00Z,-0.427,,2026-11-08,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,IonaFordham11-10,2026-11-10,Iona,Fordham,0,401911196,2026-11-11T00:00:00Z,0.292,,2026-11-09,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,La SalleVillanova11-10,2026-11-10,La Salle,Villanova,0,401921774,2026-11-11T00:00:00Z,-0.35,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SouthernIowa St.11-10,2026-11-10,Southern,Iowa St.,0,401909773,2026-11-11T01:00:00Z,-2.831,UNDER,2026-11-09,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,San DiegoColorado11-10,2026-11-10,San Diego,Colorado,0,401909761,2026-11-11T02:00:00Z,-1.65,UNDER,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Washington St.Duquesne11-10,2026-11-10,Washington St.,Duquesne,0,401925781,2026-11-11T00:00:00Z,-0.956,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Tennessee MartinArkansas St.11-10,2026-11-10,Tennessee Martin,Arkansas St.,0,401926731,2026-11-11T01:00:00Z,0.057,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Nicholls St.Tulane11-10,2026-11-10,Nicholls St.,Tulane,0,401919003,2026-11-11T00:30:00Z,-0.941,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HofstraArizona St.11-10,2026-11-10,Hofstra,Arizona St.,0,401921733,2026-11-11T02:00:00Z,-1.262,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Houston ChristianSouth Dakota11-10,2026-11-10,Houston Christian,South Dakota,0,401924952,2026-11-11T01:00:00Z,-1.998,UNDER,2026-11-09,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,DukeMichigan St.11-10,2026-11-10,Duke,Michigan St.,1,401909564,2026-11-11T00:00:00Z,-2.606,UNDER,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern KentuckySaint Louis11-10,2026-11-10,Northern Kentucky,Saint Louis,0,401911250,2026-11-11T01:00:00Z,-0.261,,2026-11-09,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,FairfieldWisconsin11-10,2026-11-10,Fairfield,Wisconsin,0,401920895,2026-11-11T01:30:00Z,-0.127,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Eastern KentuckyGeorgia Tech11-10,2026-11-10,Eastern Kentucky,Georgia Tech,0,401920306,2026-11-11T00:00:00Z,0.06,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Little RockNew Mexico11-10,2026-11-10,Little Rock,New Mexico,0,401924896,2026-11-11T02:00:00Z,-0.915,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Loyola MarymountTroy11-10,2026-11-10,Loyola Marymount,Troy,0,401917520,2026-11-11T00:00:00Z,0.329,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Texas St.UT Rio Grande Valley11-10,2026-11-10,Texas St.,UT Rio Grande Valley,0,401925107,2026-11-11T00:30:00Z,-1.19,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,IllinoisTexas Tech11-10,2026-11-10,Illinois,Texas Tech,0,401913527,2026-11-11T01:00:00Z,-1.107,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,EvansvilleMiddle Tennessee11-10,2026-11-10,Evansville,Middle Tennessee,0,401927369,2026-11-11T00:30:00Z,-0.824,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MontanaSan Francisco11-10,2026-11-10,Montana,San Francisco,0,401921062,2026-11-11T03:00:00Z,-0.621,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ElonGeorge Washington11-10,2026-11-10,Elon,George Washington,0,401911209,2026-11-11T00:00:00Z,-0.331,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NJITRutgers11-10,2026-11-10,NJIT,Rutgers,0,401920866,2026-11-10T23:30:00Z,0.887,,2026-11-09,3.0,1.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MemphisVanderbilt11-10,2026-11-10,Memphis,Vanderbilt,0,401918987,2026-11-11T00:15:00Z,-0.475,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Maryland Eastern ShoreBoston College11-10,2026-11-10,Maryland Eastern Shore,Boston College,0,401909553,2026-11-11T00:00:00Z,-0.757,,2026-11-09,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Utah TechUtah St.11-10,2026-11-10,Utah Tech,Utah St.,0,401925940,2026-11-11T02:00:00Z,-0.532,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,IowaVirginia Tech11-10,2026-11-10,Iowa,Virginia Tech,1,401920378,2026-11-11T00:00:00Z,-1.873,UNDER,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,WinthropKennesaw St.11-10,2026-11-10,Winthrop,Kennesaw St.,0,401925708,2026-11-11T00:00:00Z,-0.321,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Delaware St.Georgetown11-10,2026-11-10,Delaware St.,Georgetown,0,401909514,2026-11-10T23:30:00Z,0.151,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CreightonKansas St.11-10,2026-11-10,Creighton,Kansas St.,0,401909492,2026-11-11T02:00:00Z,-0.158,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Detroit MercyXavier11-10,2026-11-10,Detroit Mercy,Xavier,0,401909543,2026-11-11T00:00:00Z,1.625,OVER,2026-11-09,1.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ArmyNew Haven11-10,2026-11-10,Army,New Haven,0,401912228,2026-11-11T00:00:00Z,-0.155,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,YaleBaylor11-10,2026-11-10,Yale,Baylor,0,401909752,2026-11-11T01:00:00Z,0.863,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Georgia St.Fresno St.11-10,2026-11-10,Georgia St.,Fresno St.,0,401929180,2026-11-11T02:00:00Z,-0.687,,2026-11-09,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Weber St.Utah11-10,2026-11-10,Weber St.,Utah,0,401921699,2026-11-11T02:00:00Z,-1.715,UNDER,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Southeastern LouisianaMississippi11-10,2026-11-10,Southeastern Louisiana,Mississippi,0,401920817,2026-11-11T01:30:00Z,-1.159,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,FloridaFlorida St.11-10,2026-11-10,Florida,Florida St.,0,401906771,2026-11-10T23:00:00Z,-0.986,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BelmontLipscomb11-10,2026-11-10,Belmont,Lipscomb,0,401920704,2026-11-11T01:00:00Z,1.396,,2026-11-09,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,KansasKentucky11-10,2026-11-10,Kansas,Kentucky,1,401909786,2026-11-11T02:58:00Z,-0.786,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Louisiana MonroeTCU11-10,2026-11-10,Louisiana Monroe,TCU,0,401917979,2026-11-11T02:00:00Z,0.663,,2026-11-09,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MaineRhode Island11-10,2026-11-10,Maine,Rhode Island,0,401920063,2026-11-11T00:00:00Z,0.123,,2026-11-09,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,QueensBYU11-10,2026-11-10,Queens,BYU,0,401921740,2026-11-11T02:00:00Z,-0.673,,2026-11-09,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Prairie View A&MSMU11-10,2026-11-10,Prairie View A&M,SMU,0,401918969,2026-11-11T01:00:00Z,-1.362,,2026-11-09,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HarvardNortheastern11-10,2026-11-10,Harvard,Northeastern,0,401920356,2026-11-11T00:00:00Z,-1.3,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Youngstown St.Central Michigan11-10,2026-11-10,Youngstown St.,Central Michigan,0,401911011,2026-11-11T00:00:00Z,0.339,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PresbyterianN.C. State11-10,2026-11-10,Presbyterian,N.C. State,0,401918957,2026-11-11T00:00:00Z,-1.03,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SienaDayton11-10,2026-11-10,Siena,Dayton,0,401911187,2026-11-11T00:00:00Z,0.054,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Wright St.Toledo11-10,2026-11-10,Wright St.,Toledo,0,401928828,2026-11-11T00:00:00Z,-0.922,,2026-11-09,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BucknellVirginia11-10,2026-11-10,Bucknell,Virginia,0,401920425,2026-11-11T02:00:00Z,0.176,,2026-11-09,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BradleyDavidson11-10,2026-11-10,Bradley,Davidson,0,401925773,2026-11-11T00:00:00Z,0.285,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BryantProvidence11-10,2026-11-10,Bryant,Providence,0,401909533,2026-11-11T00:00:00Z,-0.844,,2026-11-09,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MercerGeorgia Southern11-10,2026-11-10,Mercer,Georgia Southern,0,401921025,2026-11-11T00:00:00Z,0.775,,2026-11-09,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Alcorn St.Murray St.11-10,2026-11-10,Alcorn St.,Murray St.,0,401925685,2026-11-11T01:00:00Z,-0.635,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,South AlabamaUCF11-10,2026-11-10,South Alabama,UCF,0,401921755,2026-11-11T00:00:00Z,-1.493,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,WyomingNorth Carolina11-10,2026-11-10,Wyoming,North Carolina,0,401913101,2026-11-11T00:00:00Z,-1.167,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Charleston SouthernWake Forest11-10,2026-11-10,Charleston Southern,Wake Forest,0,401909727,2026-11-11T00:00:00Z,1.814,OVER,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern ArizonaArizona11-10,2026-11-10,Northern Arizona,Arizona,0,401909740,2026-11-11T02:00:00Z,-0.443,,2026-11-09,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Green BayNorthern Iowa11-10,2026-11-10,Green Bay,Northern Iowa,0,401927386,2026-11-11T01:00:00Z,-2.447,UNDER,2026-11-09,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CornellSt. Bonaventure11-11,2026-11-11,Cornell,St. Bonaventure,0,401911263,2026-11-12T00:00:00Z,-0.671,,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PennNavy11-11,2026-11-11,Penn,Navy,0,401921181,2026-11-11T22:58:00Z,0.253,,2026-11-10,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CharlestonTemple11-11,2026-11-11,Charleston,Temple,0,401925858,2026-11-11T23:30:00Z,-1.136,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North Carolina CentralVMI11-11,2026-11-11,North Carolina Central,VMI,0,401926202,2026-11-11T23:00:00Z,0.244,,2026-11-10,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MarquetteMichigan11-11,2026-11-11,Marquette,Michigan,0,401909524,2026-11-12T00:00:00Z,1.166,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Oral RobertsTulsa11-11,2026-11-11,Oral Roberts,Tulsa,0,401925863,2026-11-12T01:00:00Z,-0.771,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UTSASeattle11-11,2026-11-11,UTSA,Seattle,0,401917521,2026-11-12T03:00:00Z,-0.614,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Robert MorrisArkansas11-11,2026-11-11,Robert Morris,Arkansas,0,401928824,2026-11-12T01:00:00Z,0.469,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PacificLong Beach St.11-11,2026-11-11,Pacific,Long Beach St.,0,401917523,2026-11-12T03:00:00Z,0.474,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cal PolyGrand Canyon11-11,2026-11-11,Cal Poly,Grand Canyon,0,401911346,2026-11-12T02:00:00Z,-1.07,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Arkansas Pine BluffUCLA11-11,2026-11-11,Arkansas Pine Bluff,UCLA,0,401930177,2026-11-12T02:00:00Z,0.5,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Portland St.Colorado St.11-11,2026-11-11,Portland St.,Colorado St.,0,401925915,2026-11-12T02:00:00Z,-1.387,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UNC AshevilleWest Georgia11-11,2026-11-11,UNC Asheville,West Georgia,0,401917901,2026-11-12T00:00:00Z,0.539,,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NJITVCU11-11,2026-11-11,NJIT,VCU,0,401920202,2026-11-12T00:00:00Z,0.623,,2026-11-10,4.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Incarnate WordUC Davis11-11,2026-11-11,Incarnate Word,UC Davis,0,401911519,2026-11-11T19:00:00Z,-0.288,,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Florida A&MUMKC11-11,2026-11-11,Florida A&M,UMKC,1,401921005,2026-11-11T17:00:00Z,-0.878,,2026-11-10,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Jackson St.Southern Miss11-11,2026-11-11,Jackson St.,Southern Miss,0,401921037,2026-11-12T01:00:00Z,1.12,,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Santa ClaraNorth Texas11-11,2026-11-11,Santa Clara,North Texas,0,401917522,2026-11-12T01:00:00Z,-0.264,,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Fairleigh DickinsonEast Texas A&M11-11,2026-11-11,Fairleigh Dickinson,East Texas A&M,0,401919759,2026-11-11T16:30:00Z,0.975,,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PepperdineSam Houston St.11-11,2026-11-11,Pepperdine,Sam Houston St.,0,401928794,2026-11-12T00:30:00Z,-1.203,,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Stephen F. AustinAbilene Christian11-11,2026-11-11,Stephen F. Austin,Abilene Christian,0,401917963,2026-11-12T01:00:00Z,-0.751,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Saint Peter'sSouth Carolina11-11,2026-11-11,Saint Peter's,South Carolina,0,401921821,2026-11-12T00:00:00Z,-1.605,UNDER,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Mississippi Valley St.Oregon11-11,2026-11-11,Mississippi Valley St.,Oregon,0,401925738,2026-11-12T03:00:00Z,-0.296,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,FurmanHoly Cross11-11,2026-11-11,Furman,Holy Cross,0,401921286,2026-11-12T00:00:00Z,0.908,,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Stony BrookPrinceton11-11,2026-11-11,Stony Brook,Princeton,0,401924735,2026-11-12T00:00:00Z,-1.015,,2026-11-10,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,William & MaryFlorida Atlantic11-11,2026-11-11,William & Mary,Florida Atlantic,0,401918452,2026-11-12T00:00:00Z,0.177,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LindenwoodNebraska11-11,2026-11-11,Lindenwood,Nebraska,0,401926062,2026-11-12T02:00:00Z,-1.094,,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Chicago St.Cal Baptist11-11,2026-11-11,Chicago St.,Cal Baptist,0,401919734,2026-11-12T03:00:00Z,0.272,,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North Carolina A&TEast Carolina11-11,2026-11-11,North Carolina A&T,East Carolina,0,401918978,2026-11-11T21:00:00Z,0.447,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,James MadisonDelaware11-11,2026-11-11,James Madison,Delaware,0,401920903,2026-11-12T00:00:00Z,1.0,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,USCCalifornia11-11,2026-11-11,USC,California,0,401918054,2026-11-12T04:00:00Z,-0.474,,2026-11-10,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,South Carolina St.Notre Dame11-11,2026-11-11,South Carolina St.,Notre Dame,0,401925682,2026-11-12T00:00:00Z,-2.106,UNDER,2026-11-10,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,DartmouthAlbany11-11,2026-11-11,Dartmouth,Albany,0,401920234,2026-11-11T18:00:00Z,-2.021,UNDER,2026-11-10,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,OaklandBoise St.11-11,2026-11-11,Oakland,Boise St.,0,401928814,2026-11-12T02:00:00Z,0.109,,2026-11-10,4.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Loyola ChicagoAir Force11-11,2026-11-11,Loyola Chicago,Air Force,0,401911230,2026-11-11T20:00:00Z,1.418,,2026-11-10,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NevadaUC Santa Barbara11-11,2026-11-11,Nevada,UC Santa Barbara,0,401911454,2026-11-12T02:00:00Z,-1.58,UNDER,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Saint Joseph'sSouth Florida11-11,2026-11-11,Saint Joseph's,South Florida,1,401918992,2026-11-11T20:00:00Z,-0.258,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MilwaukeeIndiana St.11-11,2026-11-11,Milwaukee,Indiana St.,0,401926868,2026-11-12T00:00:00Z,0.079,,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ValparaisoSouth Dakota St.11-11,2026-11-11,Valparaiso,South Dakota St.,0,401928996,2026-11-12T01:00:00Z,-0.907,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Bethune CookmanSan Diego St.11-11,2026-11-11,Bethune Cookman,San Diego St.,0,401925717,2026-11-11T22:00:00Z,-0.926,,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,AmericanDrexel11-11,2026-11-11,American,Drexel,0,401912209,2026-11-12T00:00:00Z,0.266,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UMass LowellMassachusetts11-11,2026-11-11,UMass Lowell,Massachusetts,0,401911012,2026-11-12T00:00:00Z,2.027,OVER,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Kent St.UNC Wilmington11-11,2026-11-11,Kent St.,UNC Wilmington,0,401926863,2026-11-12T00:00:00Z,-0.757,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Southern IndianaIU Indy11-11,2026-11-11,Southern Indiana,IU Indy,0,401921175,2026-11-11T23:30:00Z,0.349,,2026-11-10,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Jacksonville St.Houston11-11,2026-11-11,Jacksonville St.,Houston,0,401925702,2026-11-12T01:00:00Z,-0.717,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ColgateSt. John's11-11,2026-11-11,Colgate,St. John's,0,401920680,2026-11-12T00:00:00Z,-0.661,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Old DominionNorfolk St.11-11,2026-11-11,Old Dominion,Norfolk St.,0,401925895,2026-11-12T00:00:00Z,0.041,,2026-11-10,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CampbellEast Tennessee St.11-11,2026-11-11,Campbell,East Tennessee St.,0,401920740,2026-11-12T00:00:00Z,-0.294,,2026-11-10,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MercyhurstPenn St.11-12,2026-11-12,Mercyhurst,Penn St.,0,401917176,2026-11-12T23:30:00Z,0.171,,2026-11-11,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cal St. BakersfieldWestern Illinois11-12,2026-11-12,Cal St. Bakersfield,Western Illinois,0,401920135,2026-11-13T00:00:00Z,-1.065,,2026-11-11,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,StetsonHoward11-12,2026-11-12,Stetson,Howard,0,401922239,2026-11-13T00:00:00Z,-0.627,,2026-11-11,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SouthernMinnesota11-12,2026-11-12,Southern,Minnesota,0,401916306,2026-11-13T01:00:00Z,-0.584,,2026-11-11,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Loyola MarymountSouth Alabama11-12,2026-11-12,Loyola Marymount,South Alabama,1,401917524,2026-11-13T01:00:00Z,-0.901,,2026-11-11,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Central ConnecticutSacred Heart11-12,2026-11-12,Central Connecticut,Sacred Heart,0,401924876,2026-11-13T00:00:00Z,1.094,,2026-11-11,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,George MasonUMKC11-12,2026-11-12,George Mason,UMKC,1,401920073,2026-11-12T20:00:00Z,0.164,,2026-11-11,2.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,RichmondSouthern Illinois11-12,2026-11-12,Richmond,Southern Illinois,0,401911239,2026-11-13T01:00:00Z,-0.573,,2026-11-11,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,New Mexico St.UTEP11-12,2026-11-12,New Mexico St.,UTEP,0,401911533,2026-11-13T02:00:00Z,0.38,,2026-11-11,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UC RiversideSan Jose St.11-12,2026-11-12,UC Riverside,San Jose St.,0,401911471,2026-11-13T03:00:00Z,-0.195,,2026-11-11,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Tennessee TechIndiana11-12,2026-11-12,Tennessee Tech,Indiana,0,401916288,2026-11-12T23:30:00Z,-1.749,UNDER,2026-11-11,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Morgan St.UMBC11-12,2026-11-12,Morgan St.,UMBC,0,401921086,2026-11-12T23:00:00Z,1.503,OVER,2026-11-11,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MonmouthQuinnipiac11-12,2026-11-12,Monmouth,Quinnipiac,0,401924857,2026-11-13T00:00:00Z,0.705,,2026-11-11,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NiagaraBowling Green11-12,2026-11-12,Niagara,Bowling Green,0,401911013,2026-11-13T00:00:00Z,-0.99,,2026-11-11,2.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Montana St.BYU11-12,2026-11-12,Montana St.,BYU,0,401921741,2026-11-13T02:00:00Z,-1.249,,2026-11-11,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Maryland Eastern ShoreRhode Island11-12,2026-11-12,Maryland Eastern Shore,Rhode Island,0,401920064,2026-11-13T00:00:00Z,-1.108,,2026-11-11,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Southern UtahHigh Point11-12,2026-11-12,Southern Utah,High Point,0,401920412,2026-11-13T00:00:00Z,-1.602,UNDER,2026-11-11,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Western MichiganPurdue Fort Wayne11-12,2026-11-12,Western Michigan,Purdue Fort Wayne,0,401928818,2026-11-13T00:00:00Z,0.206,,2026-11-11,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CanisiusBrown11-12,2026-11-12,Canisius,Brown,0,401911307,2026-11-13T00:00:00Z,-0.499,,2026-11-11,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Oklahoma St.Texas A&M11-12,2026-11-12,Oklahoma St.,Texas A&M,0,401919041,2026-11-13T01:00:00Z,-0.16,,2026-11-11,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BradleyCoppin St.11-12,2026-11-12,Bradley,Coppin St.,1,401925631,2026-11-12T23:00:00Z,0.495,,2026-11-11,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Loyola MDTowson11-12,2026-11-12,Loyola MD,Towson,0,401920566,2026-11-13T00:00:00Z,0.243,,2026-11-11,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MercerWest Virginia11-12,2026-11-12,Mercer,West Virginia,0,401921768,2026-11-13T00:00:00Z,-0.325,,2026-11-11,4.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,DePaulNorthwestern11-13,2026-11-13,DePaul,Northwestern,0,401909503,2026-11-14T02:00:00Z,-0.076,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Central ArkansasArkansas11-13,2026-11-13,Central Arkansas,Arkansas,0,401917916,2026-11-14T01:00:00Z,-1.087,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Appalachian St.Charlotte11-13,2026-11-13,Appalachian St.,Charlotte,0,401925820,2026-11-14T00:00:00Z,-0.512,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,East Texas A&MPortland11-13,2026-11-13,East Texas A&M,Portland,0,401917527,2026-11-14T03:00:00Z,-0.451,,2026-11-12,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Tennessee St.Tennessee11-13,2026-11-13,Tennessee St.,Tennessee,0,401906850,2026-11-14T00:00:00Z,-0.503,,2026-11-12,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Louisiana MonroeArizona St.11-13,2026-11-13,Louisiana Monroe,Arizona St.,0,401917980,2026-11-14T02:00:00Z,-1.059,,2026-11-12,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HarvardGeorge Washington11-13,2026-11-13,Harvard,George Washington,0,401911210,2026-11-14T00:00:00Z,-0.799,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Mount St. Mary'sVirginia Tech11-13,2026-11-13,Mount St. Mary's,Virginia Tech,0,401920379,2026-11-14T00:00:00Z,0.025,,2026-11-12,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Illinois ChicagoSaint Mary's11-13,2026-11-13,Illinois Chicago,Saint Mary's,0,401917525,2026-11-14T03:00:00Z,-1.691,UNDER,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,IonaHofstra11-13,2026-11-13,Iona,Hofstra,0,401921191,2026-11-14T00:00:00Z,-0.293,,2026-11-12,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,FIUFlorida Gulf Coast11-13,2026-11-13,FIU,Florida Gulf Coast,0,401922211,2026-11-14T00:00:00Z,0.314,,2026-11-12,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,OhioPurdue11-13,2026-11-13,Ohio,Purdue,0,401926133,2026-11-14T00:00:00Z,-0.686,,2026-11-12,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Wright St.Samford11-13,2026-11-13,Wright St.,Samford,0,401926117,2026-11-14T01:00:00Z,-1.935,UNDER,2026-11-12,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MaristLehigh11-13,2026-11-13,Marist,Lehigh,0,401924796,2026-11-14T00:00:00Z,0.368,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,StanfordUNLV11-13,2026-11-13,Stanford,UNLV,0,401921728,2026-11-14T02:00:00Z,-0.904,,2026-11-12,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Texas SouthernMurray St.11-13,2026-11-13,Texas Southern,Murray St.,0,401927380,2026-11-14T01:00:00Z,0.811,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BryantRutgers11-13,2026-11-13,Bryant,Rutgers,0,401923270,2026-11-13T23:00:00Z,-0.687,,2026-11-12,4.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cal PolyIdaho11-13,2026-11-13,Cal Poly,Idaho,0,401920123,2026-11-14T02:00:00Z,0.038,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Prairie View A&MVanderbilt11-13,2026-11-13,Prairie View A&M,Vanderbilt,0,401921825,2026-11-14T00:00:00Z,-0.297,,2026-11-12,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Sam Houston St.Illinois11-13,2026-11-13,Sam Houston St.,Illinois,0,401913528,2026-11-14T00:00:00Z,-0.205,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Mississippi Valley St.Oregon St.11-13,2026-11-13,Mississippi Valley St.,Oregon St.,0,401925739,2026-11-14T02:30:00Z,1.786,OVER,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Southeast Missouri St.Middle Tennessee11-13,2026-11-13,Southeast Missouri St.,Middle Tennessee,0,401926152,2026-11-14T00:30:00Z,-2.047,UNDER,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UC San DiegoUtah St.11-13,2026-11-13,UC San Diego,Utah St.,0,401920372,2026-11-14T03:00:00Z,0.536,,2026-11-12,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Southern MissTexas St.11-13,2026-11-13,Southern Miss,Texas St.,0,401929199,2026-11-14T01:00:00Z,0.302,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LIUFordham11-13,2026-11-13,LIU,Fordham,0,401911197,2026-11-14T00:00:00Z,-1.233,,2026-11-12,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Chicago St.San Diego11-13,2026-11-13,Chicago St.,San Diego,0,401917526,2026-11-14T02:30:00Z,-0.985,,2026-11-12,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,GeorgetownClemson11-13,2026-11-13,Georgetown,Clemson,0,401909515,2026-11-13T23:00:00Z,-0.71,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ColumbiaBucknell11-13,2026-11-13,Columbia,Bucknell,0,401924704,2026-11-14T00:00:00Z,1.376,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ChattanoogaElon11-13,2026-11-13,Chattanooga,Elon,0,401920973,2026-11-14T00:00:00Z,-0.092,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Fairleigh DickinsonOklahoma11-13,2026-11-13,Fairleigh Dickinson,Oklahoma,0,401906804,2026-11-14T01:00:00Z,0.917,,2026-11-12,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LindenwoodNebraska Omaha11-13,2026-11-13,Lindenwood,Nebraska Omaha,0,401929040,2026-11-14T01:45:00Z,-0.81,,2026-11-12,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Arkansas Pine BluffCal Baptist11-13,2026-11-13,Arkansas Pine Bluff,Cal Baptist,0,401920345,2026-11-14T03:30:00Z,0.396,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Mississippi St.Xavier11-13,2026-11-13,Mississippi St.,Xavier,1,401906794,2026-11-14T02:00:00Z,-0.578,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PittsburghButler11-13,2026-11-13,Pittsburgh,Butler,0,401902278,2026-11-13T23:30:00Z,-0.273,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,YaleNortheastern11-13,2026-11-13,Yale,Northeastern,0,401920747,2026-11-14T00:00:00Z,0.951,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MerrimackFlorida11-13,2026-11-13,Merrimack,Florida,0,401906772,2026-11-14T00:00:00Z,-0.227,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North Carolina CentralLiberty11-13,2026-11-13,North Carolina Central,Liberty,0,401926794,2026-11-14T00:30:00Z,-0.186,,2026-11-12,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern ArizonaKentucky11-13,2026-11-13,Northern Arizona,Kentucky,0,401921803,2026-11-14T00:00:00Z,0.395,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MilwaukeeTCU11-13,2026-11-13,Milwaukee,TCU,0,401919049,2026-11-14T01:00:00Z,-0.797,,2026-11-12,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Ball St.SMU11-13,2026-11-13,Ball St.,SMU,0,401911014,2026-11-14T02:00:00Z,-1.784,UNDER,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North AlabamaMiami FL11-13,2026-11-13,North Alabama,Miami FL,0,401921721,2026-11-13T22:00:00Z,-0.978,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Seton HallAlabama11-13,2026-11-13,Seton Hall,Alabama,0,401906760,2026-11-14T02:00:00Z,-1.399,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Ohio St.Connecticut11-13,2026-11-13,Ohio St.,Connecticut,0,401916316,2026-11-14T00:30:00Z,-0.728,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SIU EdwardsvilleDuke11-13,2026-11-13,SIU Edwardsville,Duke,0,401909565,2026-11-14T01:00:00Z,-2.454,UNDER,2026-11-12,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Illinois St.North Dakota St.11-13,2026-11-13,Illinois St.,North Dakota St.,0,401927374,2026-11-14T01:00:00Z,-1.348,,2026-11-12,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Texas A&M Corpus ChrisFlorida St.11-13,2026-11-13,Texas A&M Corpus Chris,Florida St.,0,401909696,2026-11-13T22:00:00Z,-2.792,UNDER,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Alcorn St.Tarleton St.11-13,2026-11-13,Alcorn St.,Tarleton St.,0,401925686,2026-11-14T01:00:00Z,0.518,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,VirginiaMaryland11-13,2026-11-13,Virginia,Maryland,0,401916297,2026-11-14T01:00:00Z,-2.126,UNDER,2026-11-12,4.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern IowaMichigan St.11-13,2026-11-13,Northern Iowa,Michigan St.,0,401925755,2026-11-14T00:00:00Z,-2.388,UNDER,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Georgia SouthernUCF11-13,2026-11-13,Georgia Southern,UCF,0,401921026,2026-11-14T01:00:00Z,1.114,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,GeorgiaNorth Carolina11-13,2026-11-13,Georgia,North Carolina,0,401906782,2026-11-14T00:00:00Z,0.379,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ArizonaAuburn11-13,2026-11-13,Arizona,Auburn,0,401909741,2026-11-14T02:00:00Z,-0.565,,2026-11-12,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,TroyN.C. State11-13,2026-11-13,Troy,N.C. State,0,401918958,2026-11-14T00:00:00Z,1.155,,2026-11-12,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,South DakotaDrake11-13,2026-11-13,South Dakota,Drake,0,401927363,2026-11-14T00:30:00Z,-2.817,UNDER,2026-11-12,4.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Portland St.San Francisco11-14,2026-11-14,Portland St.,San Francisco,0,401921063,2026-11-15T00:00:00Z,-1.052,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Loyola MDMorgan St.11-14,2026-11-14,Loyola MD,Morgan St.,1,401920567,2026-11-14T22:00:00Z,1.139,,2026-11-13,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UMBCTowson11-14,2026-11-14,UMBC,Towson,0,401920568,2026-11-15T00:30:00Z,0.072,,2026-11-13,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BradleyGeorge Mason11-14,2026-11-14,Bradley,George Mason,1,401920074,2026-11-14T18:00:00Z,0.928,,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,West GeorgiaCharleston Southern11-14,2026-11-14,West Georgia,Charleston Southern,0,401911376,2026-11-15T00:00:00Z,1.529,OVER,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UC RiversideFresno St.11-14,2026-11-14,UC Riverside,Fresno St.,0,401926777,2026-11-14T23:00:00Z,-0.576,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HamptonNavy11-14,2026-11-14,Hampton,Navy,0,401921221,2026-11-14T21:00:00Z,1.446,,2026-11-13,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CincinnatiDayton11-14,2026-11-14,Cincinnati,Dayton,0,401911188,2026-11-15T00:30:00Z,-0.982,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,TulaneAkron11-14,2026-11-14,Tulane,Akron,0,401919004,2026-11-14T17:00:00Z,-2.507,UNDER,2026-11-13,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Louisiana MonroeGrand Canyon11-14,2026-11-14,Louisiana Monroe,Grand Canyon,0,401911347,2026-11-15T01:00:00Z,0.154,,2026-11-13,5.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BinghamtonDuquesne11-14,2026-11-14,Binghamton,Duquesne,0,401911276,2026-11-15T00:30:00Z,-0.86,,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Miami OHEvansville11-14,2026-11-14,Miami OH,Evansville,0,401911015,2026-11-14T19:00:00Z,0.336,,2026-11-13,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UNC AshevilleGeorgia Tech11-14,2026-11-14,UNC Asheville,Georgia Tech,0,401920307,2026-11-14T21:00:00Z,-0.504,,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NJITFairfield11-14,2026-11-14,NJIT,Fairfield,0,401920867,2026-11-15T00:00:00Z,2.115,OVER,2026-11-13,5.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,New MexicoSanta Clara11-14,2026-11-14,New Mexico,Santa Clara,0,401917530,2026-11-15T03:00:00Z,0.301,,2026-11-13,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern IllinoisBellarmine11-14,2026-11-14,Northern Illinois,Bellarmine,0,401920915,2026-11-14T19:00:00Z,-1.073,,2026-11-13,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LafayetteSt. Bonaventure11-14,2026-11-14,Lafayette,St. Bonaventure,0,401911264,2026-11-14T21:00:00Z,-1.666,UNDER,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,RiceStephen F. Austin11-14,2026-11-14,Rice,Stephen F. Austin,0,401921096,2026-11-14T19:00:00Z,0.121,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Loyola ChicagoColorado St.11-14,2026-11-14,Loyola Chicago,Colorado St.,0,401911231,2026-11-14T18:30:00Z,-1.149,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UC DavisSacramento St.11-14,2026-11-14,UC Davis,Sacramento St.,0,401911520,2026-11-15T01:00:00Z,-0.127,,2026-11-13,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,WyomingDenver11-14,2026-11-14,Wyoming,Denver,0,401924921,2026-11-14T20:00:00Z,0.048,,2026-11-13,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Louisiana TechNicholls St.11-14,2026-11-14,Louisiana Tech,Nicholls St.,0,401925063,2026-11-15T01:00:00Z,-0.206,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,South AlabamaNorth Texas11-14,2026-11-14,South Alabama,North Texas,0,401925827,2026-11-14T23:00:00Z,-0.796,,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,USC UpstateCampbell11-14,2026-11-14,USC Upstate,Campbell,0,401920741,2026-11-14T21:30:00Z,-0.178,,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,The CitadelNorth Florida11-14,2026-11-14,The Citadel,North Florida,0,401922220,2026-11-14T19:00:00Z,0.806,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,RiderVillanova11-14,2026-11-14,Rider,Villanova,0,401921775,2026-11-15T00:00:00Z,0.364,,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Jackson St.Winthrop11-14,2026-11-14,Jackson St.,Winthrop,0,401921038,2026-11-14T19:30:00Z,0.414,,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UT Rio Grande ValleyUT Arlington11-14,2026-11-14,UT Rio Grande Valley,UT Arlington,0,401925108,2026-11-15T00:00:00Z,-0.895,,2026-11-13,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HowardDavidson11-14,2026-11-14,Howard,Davidson,0,401925774,2026-11-15T00:00:00Z,-0.715,,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LongwoodOld Dominion11-14,2026-11-14,Longwood,Old Dominion,0,401922046,2026-11-14T21:00:00Z,-1.543,UNDER,2026-11-13,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MarshallYoungstown St.11-14,2026-11-14,Marshall,Youngstown St.,0,401920750,2026-11-14T18:00:00Z,0.361,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Coppin St.South Florida11-14,2026-11-14,Coppin St.,South Florida,0,401918993,2026-11-14T19:00:00Z,-0.25,,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Delaware St.East Carolina11-14,2026-11-14,Delaware St.,East Carolina,0,401918979,2026-11-14T21:00:00Z,-0.924,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ManhattanLe Moyne11-14,2026-11-14,Manhattan,Le Moyne,0,401919782,2026-11-14T23:00:00Z,1.203,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern IowaOakland11-14,2026-11-14,Northern Iowa,Oakland,0,401927387,2026-11-14T22:00:00Z,-0.938,,2026-11-13,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LipscombWestern Carolina11-14,2026-11-14,Lipscomb,Western Carolina,0,401920705,2026-11-15T00:00:00Z,0.677,,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,St. ThomasArmy11-14,2026-11-14,St. Thomas,Army,0,401912229,2026-11-14T18:00:00Z,0.038,,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northwestern St.Little Rock11-14,2026-11-14,Northwestern St.,Little Rock,0,401925079,2026-11-15T01:00:00Z,-1.59,UNDER,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Central MichiganNorthern Kentucky11-14,2026-11-14,Central Michigan,Northern Kentucky,0,401911016,2026-11-14T20:30:00Z,-1.197,,2026-11-13,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Austin PeayWichita St.11-14,2026-11-14,Austin Peay,Wichita St.,0,401917951,2026-11-15T00:00:00Z,-0.698,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PennSaint Joseph's11-14,2026-11-14,Penn,Saint Joseph's,0,401920193,2026-11-14T23:30:00Z,0.257,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LSUGonzaga11-14,2026-11-14,LSU,Gonzaga,0,401921689,2026-11-14T20:30:00Z,-0.964,,2026-11-13,3.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,FurmanBelmont11-14,2026-11-14,Furman,Belmont,0,401920760,2026-11-15T01:30:00Z,0.249,,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Gardner WebbSouth Carolina11-14,2026-11-14,Gardner Webb,South Carolina,0,401911392,2026-11-14T19:00:00Z,-1.268,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,WoffordQueens11-14,2026-11-14,Wofford,Queens,0,401922230,2026-11-14T19:00:00Z,0.297,,2026-11-13,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MontanaNorth Dakota11-14,2026-11-14,Montana,North Dakota,0,401922031,2026-11-15T02:00:00Z,-0.3,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ColoradoProvidence11-14,2026-11-14,Colorado,Providence,0,401909534,2026-11-14T23:00:00Z,-1.041,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BrownSiena11-14,2026-11-14,Brown,Siena,0,401911308,2026-11-15T00:00:00Z,-1.702,UNDER,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UABJacksonville St.11-14,2026-11-14,UAB,Jacksonville St.,0,401919017,2026-11-15T00:00:00Z,0.896,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,StonehillTexas Tech11-14,2026-11-14,Stonehill,Texas Tech,0,401919847,2026-11-14T19:00:00Z,-0.419,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,IU IndyMorehead St.11-14,2026-11-14,IU Indy,Morehead St.,0,401920961,2026-11-15T00:30:00Z,1.838,OVER,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern ColoradoSouth Dakota St.11-14,2026-11-14,Northern Colorado,South Dakota St.,1,401925889,2026-11-14T21:00:00Z,-1.393,,2026-11-13,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Utah TechCalifornia11-14,2026-11-14,Utah Tech,California,0,401918055,2026-11-14T22:00:00Z,1.058,,2026-11-13,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Southern UtahWake Forest11-14,2026-11-14,Southern Utah,Wake Forest,0,401909728,2026-11-14T21:00:00Z,0.314,,2026-11-13,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Utah ValleyNevada11-14,2026-11-14,Utah Valley,Nevada,0,401911455,2026-11-15T03:00:00Z,-1.92,UNDER,2026-11-13,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,DrexelMaine11-14,2026-11-14,Drexel,Maine,0,401923303,2026-11-14T18:00:00Z,-0.049,,2026-11-13,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ToledoDetroit Mercy11-14,2026-11-14,Toledo,Detroit Mercy,0,401928804,2026-11-14T21:00:00Z,2.041,OVER,2026-11-13,4.0,2.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ColgateDelaware11-15,2026-11-15,Colgate,Delaware,0,401920771,2026-11-15T18:00:00Z,0.076,,2026-11-14,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LouisvilleMemphis11-15,2026-11-15,Louisville,Memphis,0,401918949,2026-11-15T18:00:00Z,-0.987,,2026-11-14,2.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,New HavenPenn St.11-15,2026-11-15,New Haven,Penn St.,0,401917175,2026-11-15T21:30:00Z,1.339,,2026-11-14,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Alabama St.San Jose St.11-15,2026-11-15,Alabama St.,San Jose St.,0,401911472,2026-11-16T02:00:00Z,-1.272,,2026-11-14,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cal St. BakersfieldNorth Dakota St.11-15,2026-11-15,Cal St. Bakersfield,North Dakota St.,0,401920136,2026-11-15T19:00:00Z,-2.627,UNDER,2026-11-14,3.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,William & MaryMichigan11-15,2026-11-15,William & Mary,Michigan,0,401918453,2026-11-15T19:00:00Z,-0.056,,2026-11-14,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,South Carolina St.Charleston11-15,2026-11-15,South Carolina St.,Charleston,0,401925926,2026-11-15T19:00:00Z,-0.499,,2026-11-14,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cal PolyMontana St.11-15,2026-11-15,Cal Poly,Montana St.,0,401920124,2026-11-15T23:00:00Z,-0.569,,2026-11-14,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Coastal CarolinaWisconsin11-15,2026-11-15,Coastal Carolina,Wisconsin,0,401920896,2026-11-16T01:00:00Z,0.265,,2026-11-14,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Chicago St.Loyola Marymount11-15,2026-11-15,Chicago St.,Loyola Marymount,0,401917531,2026-11-15T21:00:00Z,-0.832,,2026-11-14,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Texas St.UTSA11-15,2026-11-15,Texas St.,UTSA,0,401929200,2026-11-16T01:00:00Z,-0.165,,2026-11-14,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NiagaraIowa St.11-15,2026-11-15,Niagara,Iowa St.,0,401909774,2026-11-15T18:00:00Z,-1.289,,2026-11-14,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,QuinnipiacCentral Connecticut11-15,2026-11-15,Quinnipiac,Central Connecticut,0,401924858,2026-11-15T17:00:00Z,1.566,OVER,2026-11-14,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,New HampshireBoston College11-15,2026-11-15,New Hampshire,Boston College,0,401909554,2026-11-15T18:30:00Z,0.001,,2026-11-14,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,AlbanyHoly Cross11-15,2026-11-15,Albany,Holy Cross,0,401921287,2026-11-15T19:00:00Z,0.313,,2026-11-14,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,TempleLa Salle11-15,2026-11-15,Temple,La Salle,0,401925812,2026-11-15T19:00:00Z,0.109,,2026-11-14,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CreightonIowa11-15,2026-11-15,Creighton,Iowa,1,401909493,2026-11-15T20:00:00Z,-2.442,UNDER,2026-11-14,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HarvardAmerican11-15,2026-11-15,Harvard,American,0,401912210,2026-11-15T18:00:00Z,-0.519,,2026-11-14,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SyracuseSt. John's11-15,2026-11-15,Syracuse,St. John's,0,401920681,2026-11-16T00:00:00Z,-0.876,,2026-11-14,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Norfolk St.Georgia St.11-15,2026-11-15,Norfolk St.,Georgia St.,0,401925896,2026-11-15T18:00:00Z,-0.384,,2026-11-14,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MercyhurstJames Madison11-15,2026-11-15,Mercyhurst,James Madison,0,401919825,2026-11-15T21:00:00Z,0.517,,2026-11-14,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Arkansas Pine BluffUSC11-15,2026-11-15,Arkansas Pine Bluff,USC,0,401926772,2026-11-16T00:00:00Z,1.087,,2026-11-14,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Idaho St.Seattle11-15,2026-11-15,Idaho St.,Seattle,0,401917528,2026-11-15T21:00:00Z,-0.081,,2026-11-14,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,DartmouthBoston University11-15,2026-11-15,Dartmouth,Boston University,0,401920235,2026-11-15T18:00:00Z,-2.088,UNDER,2026-11-14,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CanisiusBuffalo11-15,2026-11-15,Canisius,Buffalo,0,401911017,2026-11-15T22:30:00Z,0.01,,2026-11-14,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Air ForcePacific11-15,2026-11-15,Air Force,Pacific,0,401934396,2026-11-15T21:00:00Z,0.784,,2026-11-14,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Boise St.Nebraska11-15,2026-11-15,Boise St.,Nebraska,1,401926063,2026-11-15T18:00:00Z,0.424,,2026-11-14,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Western MichiganSouthern Indiana11-15,2026-11-15,Western Michigan,Southern Indiana,0,401923393,2026-11-15T21:30:00Z,-0.023,,2026-11-14,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,High PointSaint Louis11-15,2026-11-15,High Point,Saint Louis,0,401911251,2026-11-15T20:00:00Z,-0.228,,2026-11-14,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PrincetonRhode Island11-15,2026-11-15,Princeton,Rhode Island,0,401920065,2026-11-15T19:00:00Z,0.121,,2026-11-14,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BaylorTexas11-15,2026-11-15,Baylor,Texas,1,401906866,2026-11-15T20:00:00Z,-1.641,UNDER,2026-11-14,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cleveland St.Alabama A&M11-15,2026-11-15,Cleveland St.,Alabama A&M,0,401921168,2026-11-15T20:00:00Z,-1.976,UNDER,2026-11-14,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,New Mexico St.San Diego St.11-15,2026-11-15,New Mexico St.,San Diego St.,1,401928789,2026-11-15T21:00:00Z,0.118,,2026-11-14,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MarquetteMissouri11-15,2026-11-15,Marquette,Missouri,1,401909525,2026-11-15T19:30:00Z,0.441,,2026-11-14,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Purdue Fort WayneEastern Illinois11-15,2026-11-15,Purdue Fort Wayne,Eastern Illinois,0,401926068,2026-11-15T20:00:00Z,-0.373,,2026-11-14,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Western IllinoisMinnesota11-16,2026-11-16,Western Illinois,Minnesota,0,401916307,2026-11-17T01:00:00Z,-0.485,,2026-11-15,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,St. ThomasLIU11-16,2026-11-16,St. Thomas,LIU,0,401919807,2026-11-17T00:00:00Z,-1.345,,2026-11-15,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Eastern KentuckyKent St.11-16,2026-11-16,Eastern Kentucky,Kent St.,0,401928841,2026-11-17T00:00:00Z,-0.378,,2026-11-15,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,East Texas A&MOregon St.11-16,2026-11-16,East Texas A&M,Oregon St.,0,401929192,2026-11-17T02:30:00Z,0.64,,2026-11-15,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Abilene ChristianMissouri St.11-16,2026-11-16,Abilene Christian,Missouri St.,0,401917964,2026-11-17T01:00:00Z,-0.909,,2026-11-15,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Florida A&MUTEP11-16,2026-11-16,Florida A&M,UTEP,0,401929419,2026-11-16T19:00:00Z,0.025,,2026-11-15,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Prairie View A&MOhio St.11-16,2026-11-16,Prairie View A&M,Ohio St.,0,401916317,2026-11-16T23:30:00Z,-0.443,,2026-11-15,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MontanaKansas St.11-16,2026-11-16,Montana,Kansas St.,0,401909798,2026-11-17T01:00:00Z,-0.93,,2026-11-15,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Texas SouthernUC San Diego11-16,2026-11-16,Texas Southern,UC San Diego,0,401920373,2026-11-17T03:00:00Z,-0.171,,2026-11-15,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Western KentuckyTulsa11-16,2026-11-16,Western Kentucky,Tulsa,0,401925864,2026-11-17T00:00:00Z,-2.042,UNDER,2026-11-15,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,JacksonvilleGeorgia11-16,2026-11-16,Jacksonville,Georgia,0,401906783,2026-11-17T00:00:00Z,-0.75,,2026-11-15,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Portland St.Saint Mary's11-16,2026-11-16,Portland St.,Saint Mary's,0,401917532,2026-11-17T03:00:00Z,-1.961,UNDER,2026-11-15,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Long Beach St.UCLA11-16,2026-11-16,Long Beach St.,UCLA,0,401924265,2026-11-17T03:00:00Z,0.597,,2026-11-15,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,IonaUMBC11-16,2026-11-16,Iona,UMBC,0,401921087,2026-11-16T23:00:00Z,1.647,OVER,2026-11-15,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,The CitadelClemson11-16,2026-11-16,The Citadel,Clemson,0,401918075,2026-11-17T00:00:00Z,-1.169,,2026-11-15,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Tarleton St.Drake11-16,2026-11-16,Tarleton St.,Drake,0,401927364,2026-11-17T00:30:00Z,-1.627,UNDER,2026-11-15,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Central ArkansasOklahoma St.11-16,2026-11-16,Central Arkansas,Oklahoma St.,0,401917917,2026-11-17T01:00:00Z,-0.574,,2026-11-15,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ColumbiaNorthwestern11-16,2026-11-16,Columbia,Northwestern,0,401920735,2026-11-17T01:00:00Z,0.483,,2026-11-15,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Alcorn St.Maryland11-16,2026-11-16,Alcorn St.,Maryland,0,401916298,2026-11-16T23:00:00Z,0.539,,2026-11-15,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Grambling St.Kentucky11-16,2026-11-16,Grambling St.,Kentucky,0,401921804,2026-11-17T00:00:00Z,-1.581,UNDER,2026-11-15,2.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Southeastern LouisianaTexas A&M11-16,2026-11-16,Southeastern Louisiana,Texas A&M,0,401920808,2026-11-17T01:30:00Z,-0.142,,2026-11-15,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,RichmondVirginia Tech11-16,2026-11-16,Richmond,Virginia Tech,0,401911240,2026-11-17T00:00:00Z,-1.186,,2026-11-15,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Jacksonville St.Louisiana Tech11-17,2026-11-17,Jacksonville St.,Louisiana Tech,0,401926781,2026-11-18T00:30:00Z,0.012,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cleveland St.Xavier11-17,2026-11-17,Cleveland St.,Xavier,0,401909544,2026-11-18T00:00:00Z,-0.351,,2026-11-16,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Alabama St.UC Davis11-17,2026-11-17,Alabama St.,UC Davis,0,401911521,2026-11-18T02:00:00Z,-1.334,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,VillanovaPittsburgh11-17,2026-11-17,Villanova,Pittsburgh,0,401909708,2026-11-18T00:00:00Z,-0.517,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Sacred HeartProvidence11-17,2026-11-17,Sacred Heart,Providence,0,401909535,2026-11-18T00:00:00Z,0.094,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Michigan St.Tennessee11-17,2026-11-17,Michigan St.,Tennessee,0,401906851,2026-11-18T02:00:00Z,-0.9,,2026-11-16,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Middle TennesseeGeorgia Southern11-17,2026-11-17,Middle Tennessee,Georgia Southern,0,401921027,2026-11-18T01:00:00Z,1.358,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Norfolk St.Georgia Tech11-17,2026-11-17,Norfolk St.,Georgia Tech,0,401920308,2026-11-18T00:00:00Z,0.04,,2026-11-16,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LehighMount St. Mary's11-17,2026-11-17,Lehigh,Mount St. Mary's,0,401920921,2026-11-18T00:00:00Z,1.006,,2026-11-16,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ArkansasIndiana11-17,2026-11-17,Arkansas,Indiana,1,401916289,2026-11-18T00:30:00Z,-0.896,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Nicholls St.Mississippi11-17,2026-11-17,Nicholls St.,Mississippi,0,401925064,2026-11-18T01:30:00Z,-1.582,UNDER,2026-11-16,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LipscombPurdue11-17,2026-11-17,Lipscomb,Purdue,0,401920706,2026-11-17T23:30:00Z,1.051,,2026-11-16,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Texas A&M Corpus ChrisRice11-17,2026-11-17,Texas A&M Corpus Chris,Rice,0,401921097,2026-11-18T01:00:00Z,-0.297,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,IllinoisDuke11-17,2026-11-17,Illinois,Duke,0,401909566,2026-11-18T00:00:00Z,-0.898,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,KansasUNLV11-17,2026-11-17,Kansas,UNLV,1,401909787,2026-11-18T02:30:00Z,-0.958,,2026-11-16,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UC IrvineStanford11-17,2026-11-17,UC Irvine,Stanford,0,401921729,2026-11-18T03:00:00Z,-0.942,,2026-11-16,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HofstraMurray St.11-17,2026-11-17,Hofstra,Murray St.,1,401927381,2026-11-17T17:00:00Z,-0.445,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Le MoyneEvansville11-17,2026-11-17,Le Moyne,Evansville,0,401919783,2026-11-18T01:00:00Z,0.779,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Maryland Eastern ShoreDePaul11-17,2026-11-17,Maryland Eastern Shore,DePaul,0,401909504,2026-11-18T01:00:00Z,0.066,,2026-11-16,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CharlotteDavidson11-17,2026-11-17,Charlotte,Davidson,0,401925775,2026-11-18T00:00:00Z,-0.268,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,AkronBucknell11-17,2026-11-17,Akron,Bucknell,0,401924941,2026-11-18T00:00:00Z,1.087,,2026-11-16,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Sam Houston St.Wyoming11-17,2026-11-17,Sam Houston St.,Wyoming,0,401924922,2026-11-18T01:30:00Z,-0.12,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Tennessee St.South Florida11-17,2026-11-17,Tennessee St.,South Florida,0,401918994,2026-11-18T00:00:00Z,-0.572,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UT ArlingtonSouthern Miss11-17,2026-11-17,UT Arlington,Southern Miss,0,401929358,2026-11-18T01:00:00Z,0.985,,2026-11-16,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HoustonRutgers11-17,2026-11-17,Houston,Rutgers,1,401920511,2026-11-17T19:00:00Z,-0.916,,2026-11-16,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LamarNebraska Omaha11-17,2026-11-17,Lamar,Nebraska Omaha,0,401925012,2026-11-18T01:00:00Z,-0.198,,2026-11-16,3.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BellarmineIllinois St.11-17,2026-11-17,Bellarmine,Illinois St.,0,401921106,2026-11-18T01:00:00Z,-0.833,,2026-11-16,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Old DominionVirginia11-17,2026-11-17,Old Dominion,Virginia,0,401920426,2026-11-18T02:00:00Z,-2.611,UNDER,2026-11-16,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BryantMassachusetts11-17,2026-11-17,Bryant,Massachusetts,0,401911020,2026-11-18T00:30:00Z,0.912,,2026-11-16,5.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LindenwoodNorthern Iowa11-17,2026-11-17,Lindenwood,Northern Iowa,0,401927388,2026-11-18T01:00:00Z,-1.184,,2026-11-16,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SeattleCal Baptist11-17,2026-11-17,Seattle,Cal Baptist,0,401917533,2026-11-18T03:00:00Z,-0.442,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Western CarolinaButler11-17,2026-11-17,Western Carolina,Butler,0,401902279,2026-11-18T00:00:00Z,0.508,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,FordhamManhattan11-17,2026-11-17,Fordham,Manhattan,0,401911198,2026-11-18T00:00:00Z,0.619,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MaristArmy11-17,2026-11-17,Marist,Army,0,401912230,2026-11-17T23:00:00Z,-0.197,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,WagnerSaint Joseph's11-17,2026-11-17,Wagner,Saint Joseph's,0,401920194,2026-11-18T00:00:00Z,0.575,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Montana St.Gonzaga11-17,2026-11-17,Montana St.,Gonzaga,0,401925879,2026-11-18T04:00:00Z,-1.412,,2026-11-16,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,RiderMiami FL11-17,2026-11-17,Rider,Miami FL,0,401921722,2026-11-18T00:00:00Z,0.254,,2026-11-16,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Eastern WashingtonUtah11-17,2026-11-17,Eastern Washington,Utah,0,401920720,2026-11-18T01:30:00Z,-1.639,UNDER,2026-11-16,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,FloridaNotre Dame11-17,2026-11-17,Florida,Notre Dame,1,401906773,2026-11-17T21:51:00Z,-1.998,UNDER,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LibertySouthern Illinois11-17,2026-11-17,Liberty,Southern Illinois,1,401920953,2026-11-17T23:00:00Z,-0.479,,2026-11-16,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Central MichiganDayton11-17,2026-11-17,Central Michigan,Dayton,0,401911019,2026-11-18T00:00:00Z,-1.184,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Saint Peter'sUMass Lowell11-17,2026-11-17,Saint Peter's,UMass Lowell,0,401923325,2026-11-17T23:00:00Z,-0.511,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SIU EdwardsvilleNorth Dakota11-17,2026-11-17,SIU Edwardsville,North Dakota,0,401926143,2026-11-18T01:00:00Z,-0.516,,2026-11-16,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,FIUUAB11-17,2026-11-17,FIU,UAB,0,401919018,2026-11-18T00:30:00Z,2.097,OVER,2026-11-16,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Eastern IllinoisVanderbilt11-17,2026-11-17,Eastern Illinois,Vanderbilt,0,401921826,2026-11-18T01:00:00Z,-0.735,,2026-11-16,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Ball St.Florida St.11-17,2026-11-17,Ball St.,Florida St.,0,401909697,2026-11-18T00:00:00Z,-1.305,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Mississippi St.UCF11-17,2026-11-17,Mississippi St.,UCF,0,401921756,2026-11-18T00:00:00Z,-0.201,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cal St. NorthridgeTroy11-17,2026-11-17,Cal St. Northridge,Troy,0,401920297,2026-11-18T00:00:00Z,-0.221,,2026-11-16,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,AuburnWest Virginia11-17,2026-11-17,Auburn,West Virginia,1,401920512,2026-11-18T04:59:00Z,0.004,,2026-11-16,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Kennesaw St.Alabama11-17,2026-11-17,Kennesaw St.,Alabama,0,401906761,2026-11-18T00:30:00Z,-0.201,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MonmouthWake Forest11-17,2026-11-17,Monmouth,Wake Forest,0,401909729,2026-11-18T00:00:00Z,0.262,,2026-11-16,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,East Tennessee St.Marshall11-17,2026-11-17,East Tennessee St.,Marshall,0,401920857,2026-11-18T00:00:00Z,-0.043,,2026-11-16,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Oral RobertsSMU11-17,2026-11-17,Oral Roberts,SMU,0,401918970,2026-11-18T01:00:00Z,-1.015,,2026-11-16,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Bowling GreenWilliam & Mary11-17,2026-11-17,Bowling Green,William & Mary,0,401911018,2026-11-18T00:00:00Z,-0.207,,2026-11-16,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CornellSyracuse11-18,2026-11-18,Cornell,Syracuse,0,401924721,2026-11-19T01:00:00Z,0.006,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Chicago St.Illinois Chicago11-18,2026-11-18,Chicago St.,Illinois Chicago,0,401919735,2026-11-19T00:00:00Z,-0.502,,2026-11-17,6.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North Carolina CentralGeorge Mason11-18,2026-11-18,North Carolina Central,George Mason,0,401920075,2026-11-19T00:00:00Z,-0.48,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Incarnate WordTexas St.11-18,2026-11-18,Incarnate Word,Texas St.,0,401929201,2026-11-19T01:00:00Z,-0.45,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,North Dakota St.Colorado St.11-18,2026-11-18,North Dakota St.,Colorado St.,0,401929176,2026-11-19T02:00:00Z,-0.926,,2026-11-17,6.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UC RiversideSan Diego11-18,2026-11-18,UC Riverside,San Diego,0,401917535,2026-11-19T02:30:00Z,-2.339,UNDER,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,PortlandColorado11-18,2026-11-18,Portland,Colorado,0,401909762,2026-11-19T02:00:00Z,-0.901,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Tennessee TechUNC Asheville11-18,2026-11-18,Tennessee Tech,UNC Asheville,0,401922292,2026-11-18T23:30:00Z,-0.953,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Louisiana MonroeLSU11-18,2026-11-18,Louisiana Monroe,LSU,0,401917982,2026-11-19T01:00:00Z,0.232,,2026-11-17,7.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,FurmanRadford11-18,2026-11-18,Furman,Radford,0,401922055,2026-11-19T00:00:00Z,-0.267,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NavyGeorgetown11-18,2026-11-18,Navy,Georgetown,0,401909516,2026-11-18T23:30:00Z,-0.106,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,NJITFairleigh Dickinson11-18,2026-11-18,NJIT,Fairleigh Dickinson,0,401919760,2026-11-19T00:00:00Z,1.564,OVER,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Arkansas Pine BluffArkansas St.11-18,2026-11-18,Arkansas Pine Bluff,Arkansas St.,0,401928398,2026-11-19T01:00:00Z,2.871,OVER,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,MercerPresbyterian11-18,2026-11-18,Mercer,Presbyterian,0,401928347,2026-11-19T00:00:00Z,0.164,,2026-11-17,5.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,KansasWest Virginia11-18,2026-11-18,Kansas,West Virginia,1,401920515,2026-11-19T00:30:00Z,-0.572,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Boston UniversityMerrimack11-18,2026-11-18,Boston University,Merrimack,0,401923401,2026-11-19T00:00:00Z,-0.619,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Morehead St.Ohio11-18,2026-11-18,Morehead St.,Ohio,0,401920963,2026-11-19T00:00:00Z,0.4,,2026-11-17,5.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Bethune CookmanCreighton11-18,2026-11-18,Bethune Cookman,Creighton,0,401909494,2026-11-19T02:00:00Z,-0.713,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HawaiiWashington St.11-18,2026-11-18,Hawaii,Washington St.,1,401929004,2026-11-19T03:00:00Z,-1.138,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Boston CollegeHarvard11-18,2026-11-18,Boston College,Harvard,0,401909555,2026-11-19T01:00:00Z,-0.199,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,HowardDuquesne11-18,2026-11-18,Howard,Duquesne,0,401925782,2026-11-19T00:00:00Z,-1.161,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Fresno St.San Jose St.11-18,2026-11-18,Fresno St.,San Jose St.,0,401911473,2026-11-19T02:00:00Z,-0.57,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Florida A&MUTSA11-18,2026-11-18,Florida A&M,UTSA,0,401929420,2026-11-19T01:00:00Z,0.433,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SamfordUSC Upstate11-18,2026-11-18,Samford,USC Upstate,0,401922283,2026-11-19T01:30:00Z,-0.933,,2026-11-17,3.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Notre DameRutgers11-18,2026-11-18,Notre Dame,Rutgers,1,401920513,2026-11-18T19:00:00Z,-1.103,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,FloridaHouston11-18,2026-11-18,Florida,Houston,1,401920514,2026-11-18T21:48:00Z,-2.095,UNDER,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Morgan St.North Carolina A&T11-18,2026-11-18,Morgan St.,North Carolina A&T,0,401921156,2026-11-19T00:00:00Z,0.399,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,AuburnUNLV11-18,2026-11-18,Auburn,UNLV,1,401920516,2026-11-19T03:30:00Z,-1.081,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Weber St.Utah St.11-18,2026-11-18,Weber St.,Utah St.,0,401925949,2026-11-19T02:00:00Z,-0.273,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BinghamtonLafayette11-18,2026-11-18,Binghamton,Lafayette,0,401911277,2026-11-19T00:00:00Z,-0.792,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Youngstown St.Cincinnati11-18,2026-11-18,Youngstown St.,Cincinnati,0,401920751,2026-11-19T00:30:00Z,0.041,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,VMILongwood11-18,2026-11-18,VMI,Longwood,0,401922047,2026-11-19T00:00:00Z,0.828,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern IllinoisMarquette11-18,2026-11-18,Northern Illinois,Marquette,0,401909526,2026-11-19T00:30:00Z,-0.458,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Coppin St.La Salle11-18,2026-11-18,Coppin St.,La Salle,0,401925632,2026-11-19T00:00:00Z,1.133,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Cal St. FullertonUCLA11-18,2026-11-18,Cal St. Fullerton,UCLA,0,401920158,2026-11-19T03:30:00Z,-0.269,,2026-11-17,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,LouisianaSan Francisco11-18,2026-11-18,Louisiana,San Francisco,0,401921064,2026-11-19T03:00:00Z,-0.267,,2026-11-17,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UNC GreensboroGardner Webb11-18,2026-11-18,UNC Greensboro,Gardner Webb,0,401911393,2026-11-19T01:00:00Z,0.109,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,VermontYale11-18,2026-11-18,Vermont,Yale,0,401920694,2026-11-19T00:00:00Z,0.836,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,James MadisonTowson11-18,2026-11-18,James Madison,Towson,0,401926838,2026-11-19T00:00:00Z,0.58,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,South DakotaNebraska11-18,2026-11-18,South Dakota,Nebraska,0,401926064,2026-11-19T01:30:00Z,-1.209,,2026-11-17,6.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Detroit MercyEastern Michigan11-18,2026-11-18,Detroit Mercy,Eastern Michigan,0,401920947,2026-11-18T23:30:00Z,2.308,OVER,2026-11-17,3.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Northern ColoradoBYU11-18,2026-11-18,Northern Colorado,BYU,0,401921742,2026-11-19T02:00:00Z,-0.553,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,WoffordCharleston Southern11-18,2026-11-18,Wofford,Charleston Southern,0,401911377,2026-11-19T00:00:00Z,1.554,OVER,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,IdahoNevada11-18,2026-11-18,Idaho,Nevada,0,401911456,2026-11-19T03:00:00Z,-0.604,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ConnecticutArizona11-18,2026-11-18,Connecticut,Arizona,0,401909742,2026-11-19T02:00:00Z,-1.335,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Wichita St.Loyola Chicago11-18,2026-11-18,Wichita St.,Loyola Chicago,0,401911232,2026-11-19T01:00:00Z,-0.594,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,OaklandArizona St.11-18,2026-11-18,Oakland,Arizona St.,0,401921734,2026-11-19T02:00:00Z,0.198,,2026-11-17,6.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Alcorn St.Missouri11-18,2026-11-18,Alcorn St.,Missouri,0,401921816,2026-11-19T02:00:00Z,0.519,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ElonSouth Carolina11-18,2026-11-18,Elon,South Carolina,0,401921141,2026-11-19T00:00:00Z,0.035,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Texas SouthernSan Diego St.11-18,2026-11-18,Texas Southern,San Diego St.,0,401929146,2026-11-19T03:00:00Z,0.331,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,CampbellOklahoma11-18,2026-11-18,Campbell,Oklahoma,0,401906805,2026-11-19T01:00:00Z,-0.267,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Florida Gulf CoastFlorida Atlantic11-18,2026-11-18,Florida Gulf Coast,Florida Atlantic,0,401922212,2026-11-19T00:00:00Z,0.727,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Purdue Fort WayneBradley11-18,2026-11-18,Purdue Fort Wayne,Bradley,0,401927357,2026-11-19T01:00:00Z,0.71,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,ChattanoogaWinthrop11-18,2026-11-18,Chattanooga,Winthrop,0,401920974,2026-11-18T23:30:00Z,0.065,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,Jackson St.Baylor11-18,2026-11-18,Jackson St.,Baylor,0,401909753,2026-11-18T17:00:00Z,0.035,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,New OrleansTexas Tech11-18,2026-11-18,New Orleans,Texas Tech,0,401921134,2026-11-19T00:30:00Z,0.186,,2026-11-17,3.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,IU IndyPenn St.11-18,2026-11-18,IU Indy,Penn St.,0,401917181,2026-11-18T23:30:00Z,2.81,OVER,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,New HampshireStonehill11-18,2026-11-18,New Hampshire,Stonehill,0,401919848,2026-11-19T01:00:00Z,1.613,OVER,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,BrownHoly Cross11-18,2026-11-18,Brown,Holy Cross,0,401911309,2026-11-19T00:00:00Z,-0.314,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,UNC WilmingtonLIU11-18,2026-11-18,UNC Wilmington,LIU,0,401919808,2026-11-19T00:00:00Z,0.151,,2026-11-17,4.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,reconstruction,2027,SienaSt. John's11-18,2026-11-18,Siena,St. John's,0,401920682,2026-11-19T00:00:00Z,2.21,OVER,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Seton HallWisconsin11-19,2026-11-19,Seton Hall,Wisconsin,1,401920888,2026-11-20T01:30:00Z,-0.165,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Little RockJacksonville11-19,2026-11-19,Little Rock,Jacksonville,0,401920878,2026-11-20T00:00:00Z,-1.921,UNDER,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Sacramento St.Stanford11-19,2026-11-19,Sacramento St.,Stanford,0,401920349,2026-11-20T03:00:00Z,-0.544,,2026-11-17,3.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,MaineQuinnipiac11-19,2026-11-19,Maine,Quinnipiac,0,401923304,2026-11-20T00:00:00Z,-0.009,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Southern MissGrambling St.11-19,2026-11-19,Southern Miss,Grambling St.,0,401928388,2026-11-20T02:00:00Z,-0.693,,2026-11-17,5.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,UMBCOhio St.11-19,2026-11-19,UMBC,Ohio St.,0,401916318,2026-11-20T00:00:00Z,0.585,,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Utah TechWashington11-19,2026-11-19,Utah Tech,Washington,0,401925941,2026-11-20T02:00:00Z,0.065,,2026-11-17,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,HoustonKansas11-19,2026-11-19,Houston,Kansas,1,401920518,2026-11-20T04:00:00Z,-1.635,UNDER,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,FloridaWest Virginia11-19,2026-11-19,Florida,West Virginia,1,401920517,2026-11-19T19:30:00Z,-0.751,,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,AuburnNotre Dame11-19,2026-11-19,Auburn,Notre Dame,1,401920519,2026-11-19T22:00:00Z,-2.116,UNDER,2026-11-17,5.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,RutgersUNLV11-19,2026-11-19,Rutgers,UNLV,1,401920520,2026-11-20T01:30:00Z,-0.504,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,VCUSanta Clara11-19,2026-11-19,VCU,Santa Clara,0,401917536,2026-11-20T03:30:00Z,-0.187,,2026-11-17,3.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,UTEPNew Mexico St.11-19,2026-11-19,UTEP,New Mexico St.,0,401911534,2026-11-20T02:00:00Z,0.997,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,OregonOregon St.11-19,2026-11-19,Oregon,Oregon St.,1,401930884,2026-11-20T02:00:00Z,-1.923,UNDER,2026-11-17,3.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,UC Santa BarbaraPepperdine11-19,2026-11-19,UC Santa Barbara,Pepperdine,0,401928354,2026-11-20T02:00:00Z,-2.447,UNDER,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Southeast Missouri St.St. Thomas11-19,2026-11-19,Southeast Missouri St.,St. Thomas,0,401920845,2026-11-20T01:00:00Z,-3.493,UNDER,2026-11-17,5.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,TulaneLouisiana Tech11-19,2026-11-19,Tulane,Louisiana Tech,0,401919005,2026-11-20T00:30:00Z,-0.638,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Texas A&MTCU11-19,2026-11-19,Texas A&M,TCU,0,401919050,2026-11-20T01:00:00Z,0.488,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Tarleton St.USC11-19,2026-11-19,Tarleton St.,USC,0,401926773,2026-11-20T04:00:00Z,-0.699,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Montana St.High Point11-19,2026-11-19,Montana St.,High Point,0,401920413,2026-11-20T00:00:00Z,-0.727,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Southern UtahTexas11-19,2026-11-19,Southern Utah,Texas,0,401906867,2026-11-20T01:00:00Z,-0.698,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Murray St.N.C. State11-19,2026-11-19,Murray St.,N.C. State,1,401918959,2026-11-19T23:00:00Z,-0.553,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,NortheasternButler11-19,2026-11-19,Northeastern,Butler,0,401902280,2026-11-20T00:00:00Z,1.462,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,BuffaloSt. Bonaventure11-19,2026-11-19,Buffalo,St. Bonaventure,0,401911021,2026-11-20T00:00:00Z,-0.907,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Georgia SouthernHouston Christian11-19,2026-11-19,Georgia Southern,Houston Christian,0,401921028,2026-11-20T01:00:00Z,0.337,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Robert MorrisToledo11-19,2026-11-19,Robert Morris,Toledo,0,401928826,2026-11-20T00:00:00Z,0.84,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,CharlestonDrake11-19,2026-11-19,Charleston,Drake,0,401926814,2026-11-20T00:30:00Z,-2.727,UNDER,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,East Texas A&MCalifornia11-19,2026-11-19,East Texas A&M,California,0,401918056,2026-11-20T03:00:00Z,1.078,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,StetsonLouisville11-19,2026-11-19,Stetson,Louisville,0,401918950,2026-11-20T01:00:00Z,-1.67,UNDER,2026-11-17,5.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Southern IllinoisTennessee Martin11-20,2026-11-20,Southern Illinois,Tennessee Martin,1,401916124,2026-11-20T22:30:00Z,-0.14,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Cal St. BakersfieldIdaho11-20,2026-11-20,Cal St. Bakersfield,Idaho,0,401920137,2026-11-21T02:00:00Z,-0.996,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Alabama St.Fresno St.11-20,2026-11-20,Alabama St.,Fresno St.,0,401925664,2026-11-21T03:00:00Z,-1.191,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,CampbellKansas St.11-20,2026-11-20,Campbell,Kansas St.,0,401909799,2026-11-21T01:00:00Z,-1.139,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,NorthwesternVirginia Tech11-20,2026-11-20,Northwestern,Virginia Tech,1,401920380,2026-11-20T20:00:00Z,0.598,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Saint LouisSaint Mary's11-20,2026-11-20,Saint Louis,Saint Mary's,0,401911252,2026-11-21T04:00:00Z,-0.609,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Georgia St.Jacksonville St.11-20,2026-11-20,Georgia St.,Jacksonville St.,0,401926782,2026-11-21T00:00:00Z,-0.515,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Indiana St.Stephen F. Austin11-20,2026-11-20,Indiana St.,Stephen F. Austin,1,401916123,2026-11-20T20:00:00Z,-0.234,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,North TexasAppalachian St.11-20,2026-11-20,North Texas,Appalachian St.,0,401925828,2026-11-20T23:30:00Z,1.234,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Mississippi St.Tulsa11-20,2026-11-20,Mississippi St.,Tulsa,1,401925865,2026-11-21T00:30:00Z,-2.343,UNDER,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Mississippi Valley St.Arkansas11-20,2026-11-20,Mississippi Valley St.,Arkansas,0,401925740,2026-11-21T01:00:00Z,-0.176,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,LipscombAlabama A&M11-20,2026-11-20,Lipscomb,Alabama A&M,0,401920707,2026-11-21T01:00:00Z,0.127,,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Sam Houston St.Boise St.11-20,2026-11-20,Sam Houston St.,Boise St.,0,401928795,2026-11-21T02:00:00Z,0.307,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,NiagaraDelaware St.11-20,2026-11-20,Niagara,Delaware St.,0,401924844,2026-11-21T00:00:00Z,0.068,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Middle TennesseeTemple11-20,2026-11-20,Middle Tennessee,Temple,1,401916122,2026-11-20T17:30:00Z,0.042,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,GeorgiaGeorgia Tech11-20,2026-11-20,Georgia,Georgia Tech,0,401906784,2026-11-21T01:00:00Z,1.525,OVER,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,BellarmineEastern Kentucky11-20,2026-11-20,Bellarmine,Eastern Kentucky,0,401921107,2026-11-21T00:00:00Z,1.238,,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,AlbanyWestern Illinois11-20,2026-11-20,Albany,Western Illinois,1,401919826,2026-11-20T20:00:00Z,-0.369,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,South Carolina St.The Citadel11-20,2026-11-20,South Carolina St.,The Citadel,0,401925927,2026-11-21T00:00:00Z,-1.401,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,East CarolinaUtah Valley11-20,2026-11-20,East Carolina,Utah Valley,1,401916125,2026-11-21T01:00:00Z,-0.73,,2026-11-17,4.0,3.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,UT ArlingtonNorthwestern St.11-20,2026-11-20,UT Arlington,Northwestern St.,0,401925080,2026-11-21T00:30:00Z,0.441,,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,HarvardHoly Cross11-20,2026-11-20,Harvard,Holy Cross,0,401920357,2026-11-21T00:00:00Z,1.646,OVER,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,UMKCIona11-20,2026-11-20,UMKC,Iona,0,401921007,2026-11-21T00:00:00Z,0.287,,2026-11-17,6.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Coastal CarolinaTennessee11-20,2026-11-20,Coastal Carolina,Tennessee,0,401906852,2026-11-21T00:00:00Z,0.543,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,RichmondWestern Kentucky11-20,2026-11-20,Richmond,Western Kentucky,1,401927396,2026-11-21T00:00:00Z,-2.025,UNDER,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,IowaXavier11-20,2026-11-20,Iowa,Xavier,0,401909545,2026-11-21T00:30:00Z,-1.747,UNDER,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,ManhattanMiami FL11-20,2026-11-20,Manhattan,Miami FL,0,401921723,2026-11-20T22:00:00Z,1.706,OVER,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,OaklandPurdue11-20,2026-11-20,Oakland,Purdue,0,401926134,2026-11-21T00:00:00Z,0.309,,2026-11-17,7.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Central MichiganPittsburgh11-20,2026-11-20,Central Michigan,Pittsburgh,0,401909709,2026-11-21T00:00:00Z,-1.159,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Saint Joseph'sDrexel11-20,2026-11-20,Saint Joseph's,Drexel,0,401920195,2026-11-21T00:00:00Z,-0.201,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,South Dakota St.Idaho St.11-20,2026-11-20,South Dakota St.,Idaho St.,0,401922022,2026-11-20T21:00:00Z,1.217,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Southeastern LouisianaKennesaw St.11-20,2026-11-20,Southeastern Louisiana,Kennesaw St.,0,401920818,2026-11-21T00:00:00Z,-1.207,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,MercyhurstCanisius11-20,2026-11-20,Mercyhurst,Canisius,0,401919827,2026-11-20T22:30:00Z,0.041,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,MinnesotaOklahoma St.11-20,2026-11-20,Minnesota,Oklahoma St.,1,401921418,2026-11-20T17:30:00Z,-0.954,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,LibertyRhode Island11-20,2026-11-20,Liberty,Rhode Island,1,401920066,2026-11-20T21:30:00Z,-0.177,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,IndianaKentucky11-20,2026-11-20,Indiana,Kentucky,1,401916290,2026-11-21T01:00:00Z,-0.482,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Le MoyneMissouri11-20,2026-11-20,Le Moyne,Missouri,0,401919784,2026-11-21T01:00:00Z,0.956,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Loyola MDVirginia11-20,2026-11-20,Loyola MD,Virginia,0,401920427,2026-11-21T00:00:00Z,0.304,,2026-11-17,5.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,South AlabamaSMU11-20,2026-11-20,South Alabama,SMU,0,401929459,2026-11-21T01:00:00Z,-1.674,UNDER,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,MonmouthPrinceton11-20,2026-11-20,Monmouth,Princeton,0,401924736,2026-11-21T00:00:00Z,0.486,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,MarshallNorth Carolina11-20,2026-11-20,Marshall,North Carolina,0,401912710,2026-11-21T02:00:00Z,1.471,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,DelawareCal St. Northridge11-20,2026-11-20,Delaware,Cal St. Northridge,0,401920298,2026-11-20T23:00:00Z,0.211,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,UCFVanderbilt11-20,2026-11-20,UCF,Vanderbilt,0,401921757,2026-11-21T01:00:00Z,0.018,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,DaytonUtah11-20,2026-11-20,Dayton,Utah,1,401921419,2026-11-20T22:30:00Z,-1.954,UNDER,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,WagnerMaryland11-20,2026-11-20,Wagner,Maryland,0,401916299,2026-11-21T00:00:00Z,-0.678,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Green BayFlorida St.11-20,2026-11-20,Green Bay,Florida St.,0,401909698,2026-11-20T17:00:00Z,-1.95,UNDER,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Eastern IllinoisIllinois11-20,2026-11-20,Eastern Illinois,Illinois,0,401913529,2026-11-21T02:00:00Z,-0.354,,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,George WashingtonUAB11-20,2026-11-20,George Washington,UAB,1,401919019,2026-11-20T19:00:00Z,1.083,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Western MichiganMount St. Mary's11-20,2026-11-20,Western Michigan,Mount St. Mary's,0,401920922,2026-11-21T00:00:00Z,0.628,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,SienaBucknell11-21,2026-11-21,Siena,Bucknell,0,401924884,2026-11-21T16:00:00Z,3.256,OVER,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,PennLa Salle11-21,2026-11-21,Penn,La Salle,0,401921183,2026-11-21T21:00:00Z,0.815,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,DukeWashington St.11-21,2026-11-21,Duke,Washington St.,1,401909567,2026-11-22T04:00:00Z,-1.139,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,LafayetteSyracuse11-21,2026-11-21,Lafayette,Syracuse,0,401909719,2026-11-21T19:00:00Z,-1.633,UNDER,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Morehead St.Elon11-21,2026-11-21,Morehead St.,Elon,0,401920964,2026-11-22T00:00:00Z,1.372,,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,FordhamPortland11-21,2026-11-21,Fordham,Portland,1,401911199,2026-11-21T19:00:00Z,-0.81,,2026-11-17,5.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,MichiganVillanova11-21,2026-11-21,Michigan,Villanova,0,401921776,2026-11-22T00:00:00Z,0.054,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,NavyRider11-21,2026-11-21,Navy,Rider,0,401921222,2026-11-21T19:00:00Z,0.561,,2026-11-17,6.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Central ArkansasJacksonville11-21,2026-11-21,Central Arkansas,Jacksonville,0,401917918,2026-11-21T21:00:00Z,-1.034,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,PresbyterianTennessee Tech11-21,2026-11-21,Presbyterian,Tennessee Tech,0,401926217,2026-11-22T00:30:00Z,-1.469,,2026-11-17,4.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Detroit MercyMichigan St.11-21,2026-11-21,Detroit Mercy,Michigan St.,0,401925756,2026-11-21T17:00:00Z,0.623,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Northern IllinoisBowling Green11-21,2026-11-21,Northern Illinois,Bowling Green,0,401911022,2026-11-21T19:00:00Z,-2.022,UNDER,2026-11-17,6.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,South FloridaGeorge Mason11-21,2026-11-21,South Florida,George Mason,0,401918995,2026-11-21T21:00:00Z,-1.261,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Kent St.Cleveland St.11-21,2026-11-21,Kent St.,Cleveland St.,0,401921169,2026-11-21T18:00:00Z,-0.417,,2026-11-17,4.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Northern ArizonaCal Poly11-21,2026-11-21,Northern Arizona,Cal Poly,0,401920125,2026-11-22T00:00:00Z,-0.088,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,CornellMorgan St.11-21,2026-11-21,Cornell,Morgan St.,0,401924722,2026-11-21T19:00:00Z,1.495,,2026-11-17,5.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Little RockNorth Florida11-21,2026-11-21,Little Rock,North Florida,0,401922222,2026-11-21T19:00:00Z,-0.158,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,New HampshireNew Haven11-21,2026-11-21,New Hampshire,New Haven,0,401923312,2026-11-21T18:00:00Z,1.543,OVER,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,USC UpstateUNC Greensboro11-21,2026-11-21,USC Upstate,UNC Greensboro,0,401922284,2026-11-21T16:00:00Z,0.256,,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Charleston SouthernMercer11-21,2026-11-21,Charleston Southern,Mercer,0,401911378,2026-11-22T00:00:00Z,1.979,OVER,2026-11-17,5.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,MercyhurstWestern Illinois11-21,2026-11-21,Mercyhurst,Western Illinois,1,401919828,2026-11-21T18:30:00Z,-0.656,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,ValparaisoTroy11-21,2026-11-21,Valparaiso,Troy,1,401928998,2026-11-22T01:00:00Z,0.76,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Texas A&M Corpus ChrisOral Roberts11-21,2026-11-21,Texas A&M Corpus Chris,Oral Roberts,0,401925099,2026-11-22T01:00:00Z,-1.134,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,QueensLSU11-21,2026-11-21,Queens,LSU,0,401921811,2026-11-21T18:00:00Z,-0.264,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,BradleyPacific11-21,2026-11-21,Bradley,Pacific,0,401917537,2026-11-22T03:00:00Z,1.287,,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,ColumbiaBoston University11-21,2026-11-21,Columbia,Boston University,0,401923402,2026-11-21T17:00:00Z,-1.046,,2026-11-17,5.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Cal BaptistLoyola Marymount11-21,2026-11-21,Cal Baptist,Loyola Marymount,1,401917539,2026-11-22T00:00:00Z,0.705,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Coppin St.Georgetown11-21,2026-11-21,Coppin St.,Georgetown,0,401909517,2026-11-21T23:00:00Z,0.815,,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,San DiegoUC Irvine11-21,2026-11-21,San Diego,UC Irvine,1,401917538,2026-11-21T21:30:00Z,-1.793,UNDER,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,DrakeMissouri St.11-21,2026-11-21,Drake,Missouri St.,0,401927365,2026-11-21T20:00:00Z,-2.65,UNDER,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Western CarolinaWake Forest11-21,2026-11-21,Western Carolina,Wake Forest,0,401909730,2026-11-21T19:00:00Z,-0.643,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,ArmyBinghamton11-21,2026-11-21,Army,Binghamton,0,401911278,2026-11-21T20:30:00Z,-0.733,,2026-11-17,5.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,UT Rio Grande ValleyAustin Peay11-21,2026-11-21,UT Rio Grande Valley,Austin Peay,0,401917953,2026-11-21T20:00:00Z,-0.945,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,DenverEastern Michigan11-21,2026-11-21,Denver,Eastern Michigan,0,401920948,2026-11-21T18:00:00Z,0.426,,2026-11-17,4.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,AlbanyCanisius11-21,2026-11-21,Albany,Canisius,0,401923322,2026-11-21T21:00:00Z,0.401,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Air ForceUTSA11-21,2026-11-21,Air Force,UTSA,0,401911337,2026-11-21T22:00:00Z,1.836,OVER,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Stony BrookSaint Peter's11-21,2026-11-21,Stony Brook,Saint Peter's,0,401924882,2026-11-21T19:00:00Z,-1.011,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Gardner WebbVMI11-21,2026-11-21,Gardner Webb,VMI,0,401911394,2026-11-22T00:00:00Z,0.295,,2026-11-17,5.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,Nicholls St.Southern Miss11-21,2026-11-21,Nicholls St.,Southern Miss,1,401925065,2026-11-21T22:00:00Z,0.083,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,LongwoodEast Tennessee St.11-21,2026-11-21,Longwood,East Tennessee St.,0,401922048,2026-11-21T21:00:00Z,-0.119,,2026-11-17,6.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,New MexicoWichita St.11-21,2026-11-21,New Mexico,Wichita St.,0,401919031,2026-11-21T19:00:00Z,-1.498,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,St. ThomasMilwaukee11-21,2026-11-21,St. Thomas,Milwaukee,0,401920846,2026-11-21T20:00:00Z,-1.171,,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,NortheasternStonehill11-21,2026-11-21,Northeastern,Stonehill,0,401919849,2026-11-21T22:00:00Z,0.834,,2026-11-17,4.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,MaineMassachusetts11-21,2026-11-21,Maine,Massachusetts,0,401911023,2026-11-21T23:00:00Z,0.123,,2026-11-17,5.0,4.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,UNC WilmingtonNorfolk St.11-21,2026-11-21,UNC Wilmington,Norfolk St.,0,401925897,2026-11-21T23:00:00Z,-1.027,,2026-11-17,5.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,BrownVermont11-21,2026-11-21,Brown,Vermont,0,401911310,2026-11-22T00:00:00Z,-1.625,UNDER,2026-11-17,6.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,RadfordChattanooga11-21,2026-11-21,Radford,Chattanooga,0,401920975,2026-11-22T00:00:00Z,-0.904,,2026-11-17,5.0,5.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,New OrleansTexas Southern11-21,2026-11-21,New Orleans,Texas Southern,0,401925049,2026-11-22T01:30:00Z,1.511,OVER,2026-11-17,4.0,6.0
+frozen_v1,2026-11-19T09:56:03Z,prospective,2027,WinthropWofford11-21,2026-11-21,Winthrop,Wofford,0,401925709,2026-11-21T22:00:00Z,-0.32,,2026-11-17,5.0,6.0

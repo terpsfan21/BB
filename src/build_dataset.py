@@ -47,7 +47,7 @@ def fnum(x):
 
 
 # ----------------------------------------------------------------------------- Torvik schedule
-def load_sked(y):
+def load_sked(y, played_only=True):
     d = pd.read_csv(f"{RAW}/torvik/sked/{y}.csv", header=None)
     out = pd.DataFrame({
         "season": y,
@@ -73,6 +73,8 @@ def load_sked(y):
     for side, off in (("t1", 4), ("t2", 19)):
         for k, name in enumerate(BOX):
             out[f"{side}_{name}"] = box.map(lambda v, i=off + k: fnum(v[i]) if v and len(v) > 34 else np.nan)
+    if not played_only:
+        return out
     out = out[(out.played == 1) & out.t1_pts.notna()].drop(columns="played")
     return out
 
