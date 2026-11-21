@@ -1,26 +1,26 @@
 # Frozen v1 forward test, season 2026-27
 
-Generated 2026-11-20 21:24 UTC. Log rows: 1200; prospective 429, reconstruction 771.
+Generated 2026-11-21 10:24 UTC. Log rows: 1439; prospective 666, reconstruction 773.
 
 ## Prospective predictions
 
-Settled games: 29; with a DraftKings close: 18; flagged bets (|signal| >= 1.5): 5; overtime games: 3.
+Settled games: 79; with a DraftKings close: 50; flagged bets (|signal| >= 1.5): 11; overtime games: 6.
 
-| line                                |   threshold |   bets |   win% | 95% CI    |   ROI% at actual price | ROI 95% CI     |
-|:------------------------------------|------------:|-------:|-------:|:----------|-----------------------:|:---------------|
-| DK open                             |         1.5 |      5 |     60 | 23.1-88.2 |                   13.8 | -77.3 to 104.8 |
-| DK close                            |         1.5 |      5 |     60 | 23.1-88.2 |                   13.8 | -77.3 to 104.8 |
-| first DK line seen after prediction |         1.5 |      8 |     50 | 21.5-78.5 |                   -4.3 | -75.2 to 66.6  |
+| line                                |   threshold |   bets |   win% | 95% CI    |   ROI% at actual price | ROI 95% CI    |
+|:------------------------------------|------------:|-------:|-------:|:----------|-----------------------:|:--------------|
+| DK open                             |         1.5 |     11 |   72.7 | 43.4-90.3 |                   37.4 | -14.8 to 89.6 |
+| DK close                            |         1.5 |     11 |   63.6 | 35.4-84.8 |                   20.9 | -35.7 to 77.6 |
+| first DK line seen after prediction |         1.5 |     17 |   64.7 | 41.3-82.7 |                   23.3 | -21.3 to 68.0 |
 
-Closing-line value on flagged bets taken at the DK open: mean +0.60 pts; line moved toward the bet 20%, against 0%, unchanged 80%.
+Closing-line value on flagged bets taken at the DK open: mean +0.82 pts; line moved toward the bet 45%, against 9%, unchanged 45%.
 
-All lined games: MAE of the close 6.89; MAE of close + signal 7.03; corr(signal, actual - close) +0.401; corr(signal, close - open) +0.170; calibration slope of (actual - close) on signal +2.40 (1.0 = signal sized correctly).
+All lined games: MAE of the close 11.08; MAE of close + signal 11.06; corr(signal, actual - close) +0.175; corr(signal, close - open) +0.289; calibration slope of (actual - close) on signal +2.33 (1.0 = signal sized correctly).
 
 ## Reconstruction predictions
 
 These were computed AFTER the games were played, from inputs dated before each game. They are a check that the pipeline works, not a forward test.
 
-Settled games: 771; with a DraftKings close: 769; flagged bets (|signal| >= 1.5): 85; overtime games: 33.
+Settled games: 772; with a DraftKings close: 769; flagged bets (|signal| >= 1.5): 85; overtime games: 33.
 
 | line     |   threshold |   bets |   win% | 95% CI    |   ROI% at actual price | ROI 95% CI    |
 |:---------|------------:|-------:|-------:|:----------|-----------------------:|:--------------|
