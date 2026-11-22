@@ -25,3 +25,5 @@ obs_ts_utc,source,events_checked,pre_tip_lines,note
 2026-11-22T08:04:35Z,kalshi,38,38,matched_to_games=32
 2026-11-22T16:21:17Z,espn,381,38,
 2026-11-22T16:21:17Z,kalshi,40,38,matched_to_games=32
+2026-11-22T22:29:59Z,espn,381,18,
+2026-11-22T22:29:59Z,kalshi,38,25,matched_to_games=22
