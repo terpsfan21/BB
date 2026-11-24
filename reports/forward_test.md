@@ -1,20 +1,20 @@
 # Frozen v1 forward test, season 2026-27
 
-Generated 2026-11-24 10:23 UTC. Log rows: 2009; prospective 1236, reconstruction 773.
+Generated 2026-11-24 21:24 UTC. Log rows: 2009; prospective 1236, reconstruction 773.
 
 ## Prospective predictions
 
-Settled games: 200; with a DraftKings close: 131; flagged bets (|signal| >= 1.5): 25; overtime games: 16.
+Settled games: 209; with a DraftKings close: 145; flagged bets (|signal| >= 1.5): 28; overtime games: 17.
 
 | line                                |   threshold |   bets |   win% | 95% CI    |   ROI% at actual price | ROI 95% CI    |
 |:------------------------------------|------------:|-------:|-------:|:----------|-----------------------:|:--------------|
-| DK open                             |         1.5 |     25 |   64   | 44.5-79.8 |                   21.7 | -14.9 to 58.2 |
-| DK close                            |         1.5 |     25 |   60   | 40.7-76.6 |                   14.2 | -23.1 to 51.6 |
-| first DK line seen after prediction |         1.5 |     40 |   52.5 | 37.5-67.1 |                    0.2 | -29.7 to 30.1 |
+| DK open                             |         1.5 |     28 |   64.3 | 45.8-79.3 |                   22.2 | -12.2 to 56.6 |
+| DK close                            |         1.5 |     28 |   53.6 | 35.8-70.5 |                    2   | -33.8 to 37.8 |
+| first DK line seen after prediction |         1.5 |     42 |   52.4 | 37.7-66.6 |                   -0.1 | -29.3 to 29.0 |
 
-Closing-line value on flagged bets taken at the DK open: mean +1.36 pts; line moved toward the bet 64%, against 12%, unchanged 24%.
+Closing-line value on flagged bets taken at the DK open: mean +1.57 pts; line moved toward the bet 64%, against 11%, unchanged 25%.
 
-All lined games: MAE of the close 12.55; MAE of close + signal 12.59; corr(signal, actual - close) +0.042; corr(signal, close - open) +0.345; calibration slope of (actual - close) on signal +0.62 (1.0 = signal sized correctly).
+All lined games: MAE of the close 12.68; MAE of close + signal 12.76; corr(signal, actual - close) +0.026; corr(signal, close - open) +0.367; calibration slope of (actual - close) on signal +0.39 (1.0 = signal sized correctly).
 
 ## Reconstruction predictions
 
