@@ -72,6 +72,8 @@ def dl(url, path, required=True):
         if required:
             raise RuntimeError(f"download failed: {url}: {e}")
         return False
+    if path.endswith(".gz") and body[:2] != b"\x1f\x8b":
+        body = b""                                          # an HTML error/redirect page, not a snapshot
     if len(body) > 200:
         open(path, "wb").write(body)
         return True
@@ -128,6 +130,8 @@ def refresh_torvik(y, today):
     while d <= today:
         s = d.strftime("%Y%m%d")
         p = f"{RAW}/torvik/tm/{s}.json.gz"
+        if os.path.exists(p) and open(p, "rb").read(2) != b"\x1f\x8b":
+            os.remove(p)                                    # a saved error page from an earlier run: fetch again
         if not os.path.exists(p):
             dl(f"https://barttorvik.com/timemachine/team_results/{s}_team_results.json.gz", p, required=False)
         d += dt.timedelta(days=1)
