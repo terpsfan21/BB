@@ -1,16 +1,16 @@
 # Frozen v1 forward test, season 2026-27
 
-Generated 2026-11-27 21:24 UTC. Log rows: 2626; prospective 1852, reconstruction 774.
+Generated 2026-11-28 10:24 UTC. Log rows: 2858; prospective 2084, reconstruction 774.
 
 ## Prospective predictions
 
-Settled games: 364; with a DraftKings close: 248; flagged bets (|signal| >= 1.5): 50; overtime games: 26.
+Settled games: 405; with a DraftKings close: 248; flagged bets (|signal| >= 1.5): 50; overtime games: 30.
 
 | line                                |   threshold |   bets |   win% | 95% CI    |   ROI% at actual price | ROI 95% CI    |
 |:------------------------------------|------------:|-------:|-------:|:----------|-----------------------:|:--------------|
 | DK open                             |         1.5 |     50 |   56   | 42.3-68.8 |                    6.8 | -19.7 to 33.3 |
 | DK close                            |         1.5 |     50 |   50   | 36.6-63.4 |                   -4.9 | -31.5 to 21.7 |
-| first DK line seen after prediction |         1.5 |     68 |   52.9 | 41.2-64.3 |                    1.1 | -21.7 to 24.0 |
+| first DK line seen after prediction |         1.5 |     75 |   53.3 | 42.2-64.2 |                    1.8 | -19.9 to 23.5 |
 
 Closing-line value on flagged bets taken at the DK open: mean +1.30 pts; line moved toward the bet 60%, against 20%, unchanged 20%.
 
